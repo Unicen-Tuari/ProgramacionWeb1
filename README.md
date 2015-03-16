@@ -1,6 +1,9 @@
 # Programación Web 1
 En este repositorio vas a encontrar toda la información de la cátedra de Programacion Web 1 (TUPAR) Universidad Nacional del Centro de la Provincia de Buenos Aires.
 
+##Anuncios
+Las clases arrancan el Miercoles 16 a las 15hs. Laboratorio Chico de la Facultad.
+
 ## Horarios
 Miercoles 15 a 21 hs
 

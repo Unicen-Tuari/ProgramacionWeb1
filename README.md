@@ -2,7 +2,7 @@
 En este repositorio vas a encontrar toda la información de la cátedra de Programacion Web 1 (TUPAR) Universidad Nacional del Centro de la Provincia de Buenos Aires.
 
 ##Anuncios
-Las clases arrancan el Miercoles 16 a las 15hs. Laboratorio Chico de la Facultad.
+
 
 ## Horarios
 Miercoles 15 a 21 hs
@@ -20,13 +20,13 @@ La materia cuenta con 3 instancias de evaluación obligatorias:
 ###Promoción
 Si el alumno saca nota >= 7 en Parcial y Trabajo praáctico especial.
 
-## Temas
-* Desarrollo de Software
+## Temas - Slides
+* [Introducción Programación Web 2015](https://docs.google.com/presentation/d/1IoWRBgCJlauoFulLvgk6TOkJuj9IPf2R4OqKhMukbTs/edit?usp=sharing)
+* [Desarrollo de Software](https://docs.google.com/presentation/d/1ygIsovLWVaCH7DJoVjk4SN6zQRfN9kcGXSkdeB8KlRU/edit?usp=sharing)
 * Git
 * Servidores Web (Apache)
 * HTML
 * CSS
 * Javascript
-* PHP
 * Bootstrap
 

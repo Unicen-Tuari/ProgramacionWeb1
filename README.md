@@ -23,10 +23,10 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo praáctico especial.
 ## Temas - Slides
 * [Introducción Programación Web 2015](https://docs.google.com/presentation/d/1IoWRBgCJlauoFulLvgk6TOkJuj9IPf2R4OqKhMukbTs/edit?usp=sharing)
 * [Desarrollo de Software](https://docs.google.com/presentation/d/1ygIsovLWVaCH7DJoVjk4SN6zQRfN9kcGXSkdeB8KlRU/edit?usp=sharing)
-* Git
-* Servidores Web (Apache)
-* HTML
-* CSS
-* Javascript
+* [Git](https://docs.google.com/presentation/d/1CL8E1YIEjkl4UUpru5QvcOdWhS8I4qyXWg-XX_TvDDM/edit?usp=sharing)
+* [HTML y CSS Introduccion](https://docs.google.com/presentation/d/1fHNc8FvEScGhYGwaTskkvVxthuov66mdroibm1dxMXM/edit?usp=sharing)
 * Bootstrap
+* Servidores Web (Apache)
+* Javascript
+
 

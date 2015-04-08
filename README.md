@@ -29,6 +29,8 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo praáctico especial.
 * [HTML Tablas y Forms](https://docs.google.com/presentation/d/1nzaevqoRBnu4iQEdd31Zk853NDpYMr4jcGYf14rUcWk/edit?usp=sharing)
 * [HTML Semantica](https://docs.google.com/presentation/d/1gdlZmecgZuRqwln961ZaNnTYs70qwEJjHZEMFxl0FXU/edit?usp=sharing)
 * [Box Model](https://docs.google.com/presentation/d/13hHbqPbwg1MQyke0v9o17eh_i81Au4z7zzJ2HEzkPEA/edit?usp=sharing)
+* [HTML 5 y CSS3](https://docs.google.com/presentation/d/1qW8j3ShqnMB2RSQpvzFWoqNDLVxc-WRPJt0J2CGfMz4/edit?usp=sharing)
+* [Servidores web y Filepaths](https://docs.google.com/presentation/d/1VgDzYPDcNUyuta3jQUrh5Ih9Q_CyTJJxH_Dv9MDFXbk/edit?usp=sharing)
 * Bootstrap
 * Servidores Web (Apache)
 * Javascript

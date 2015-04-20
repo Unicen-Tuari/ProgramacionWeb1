@@ -1,6 +1,9 @@
 # Programación Web 1
 En este repositorio vas a encontrar toda la información de la cátedra de Programacion Web 1 (TUPAR) Universidad Nacional del Centro de la Provincia de Buenos Aires.
 
+##Anuncios
+
+
 ## Horarios
 Miercoles 15 a 21 hs
 
@@ -17,13 +20,19 @@ La materia cuenta con 3 instancias de evaluación obligatorias:
 ###Promoción
 Si el alumno saca nota >= 7 en Parcial y Trabajo praáctico especial.
 
-## Temas
-* Desarrollo de Software
-* Git
-* Servidores Web (Apache)
-* HTML
-* CSS
-* Javascript
-* PHP
+## Temas - Slides
+* [Introducción Programación Web 2015](https://docs.google.com/presentation/d/1IoWRBgCJlauoFulLvgk6TOkJuj9IPf2R4OqKhMukbTs/edit?usp=sharing)
+* [Desarrollo de Software](https://docs.google.com/presentation/d/1ygIsovLWVaCH7DJoVjk4SN6zQRfN9kcGXSkdeB8KlRU/edit?usp=sharing)
+* [Git](https://docs.google.com/presentation/d/1CL8E1YIEjkl4UUpru5QvcOdWhS8I4qyXWg-XX_TvDDM/edit?usp=sharing)
+* [HTML y CSS Introduccion](https://docs.google.com/presentation/d/1fHNc8FvEScGhYGwaTskkvVxthuov66mdroibm1dxMXM/edit?usp=sharing)
+* [Selectores CSS](https://docs.google.com/presentation/d/1lcKlAPf8R6KYdTWKIdecNi9RodIO76qh5xSM_QWzM7g/edit?usp=sharing)
+* [HTML Tablas y Forms](https://docs.google.com/presentation/d/1nzaevqoRBnu4iQEdd31Zk853NDpYMr4jcGYf14rUcWk/edit?usp=sharing)
+* [HTML Semantica](https://docs.google.com/presentation/d/1gdlZmecgZuRqwln961ZaNnTYs70qwEJjHZEMFxl0FXU/edit?usp=sharing)
+* [Box Model](https://docs.google.com/presentation/d/13hHbqPbwg1MQyke0v9o17eh_i81Au4z7zzJ2HEzkPEA/edit?usp=sharing)
+* [HTML 5 y CSS3](https://docs.google.com/presentation/d/1qW8j3ShqnMB2RSQpvzFWoqNDLVxc-WRPJt0J2CGfMz4/edit?usp=sharing)
+* [Servidores web y Filepaths](https://docs.google.com/presentation/d/1VgDzYPDcNUyuta3jQUrh5Ih9Q_CyTJJxH_Dv9MDFXbk/edit?usp=sharing)
 * Bootstrap
+* Servidores Web (Apache)
+* Javascript
+
 

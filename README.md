@@ -2,6 +2,7 @@
 En este repositorio vas a encontrar toda la información de la cátedra de Programacion Web 1 (TUPAR) Universidad Nacional del Centro de la Provincia de Buenos Aires.
 
 ##Anuncios
+Este Miercoles 29/05 hay clases de 18 a 21hs. 
 
 
 ## Horarios
@@ -31,7 +32,7 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo praáctico especial.
 * [Box Model](https://docs.google.com/presentation/d/13hHbqPbwg1MQyke0v9o17eh_i81Au4z7zzJ2HEzkPEA/edit?usp=sharing)
 * [HTML 5 y CSS3](https://docs.google.com/presentation/d/1qW8j3ShqnMB2RSQpvzFWoqNDLVxc-WRPJt0J2CGfMz4/edit?usp=sharing)
 * [Servidores web y Filepaths](https://docs.google.com/presentation/d/1VgDzYPDcNUyuta3jQUrh5Ih9Q_CyTJJxH_Dv9MDFXbk/edit?usp=sharing)
-* Bootstrap
+* [Bootstrap](https://docs.google.com/presentation/d/1m5zVa8yDWzN--bKqC7f2gv1joKJCEo2xWDK24uAM4-M/edit?usp=sharing)
 * Servidores Web (Apache)
 * Javascript
 

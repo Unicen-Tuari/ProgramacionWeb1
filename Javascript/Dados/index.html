@@ -1,0 +1,69 @@
+<html>
+	<head>
+		<title>Ejemplo Acceso al DOM</title>
+	    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+	</head>
+	<body>
+		 <div class="container">
+
+		 	<h1>Dados</h1>
+		  <p>
+				<img id="dado1" src="images/dado6.png"/>
+		  </p>
+			<p>
+				<img id="dado2" src="images/dado6.png"/>
+		  </p>
+			<label>Cantidad de Veces:</label><input id="veces" type="text" value="20"/> </br>
+		  <button onclick="lanzarDados()">Tirar Dados</button>
+			<button onclick="tirarDadosMuchasVeces()">Tirar Dados</button>
+			<button onclick="startTimer()">Start</button>
+			<button onclick="stopTimer()">Stop</button>
+			<table class="table">
+      <thead>
+        <tr>
+          <th>2</th>
+          <th>3</th>
+          <th>4</th>
+          <th>5</th>
+					<th>6</th>
+					<th>7</th>
+					<th>8</th>
+					<th>9</th>
+					<th>10</th>
+					<th>11</th>
+					<th>12</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+					<td id="2">0</td>
+					<td id="3">0</td>
+					<td id="4">0</td>
+					<td id="5">0</td>
+					<td id="6">0</td>
+					<td id="7">0</td>
+					<td id="8">0</td>
+					<td id="9">0</td>
+					<td id="10">0</td>
+					<td id="11">0</td>
+					<td id="12">0</td>
+        </tr>
+      </tbody>
+    </table>
+		<div id="ocultar">
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit eveniet quia, adipisci reprehenderit? Eum ex autem quisquam aliquid ab placeat sequi aspernatur non in iure totam officia, possimus dolorem, eveniet.</p>
+		</div>
+		<button onclick="toggle('ocultar')">Mostrar/Ocultar</button>
+
+		<h1>Lista de Tareas</h1>
+		<ul id="tareas">
+			<li>Debo estudiar para PW1</li>
+			<li>Mirar Boca-River</li>
+		</ul>
+		<label>Tarea:</label><input id="tarea" type="text"/> </br>
+		<button onclick="agregarTarea()">Agregar Tarea</button>
+		</div>
+		<script type="text/javascript" src="js/cubilete.js" async>
+		</script>
+	</body>
+</html>

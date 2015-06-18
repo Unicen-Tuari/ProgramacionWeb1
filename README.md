@@ -33,7 +33,9 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo praáctico especial.
 * [HTML 5 y CSS3](https://docs.google.com/presentation/d/1qW8j3ShqnMB2RSQpvzFWoqNDLVxc-WRPJt0J2CGfMz4/edit?usp=sharing)
 * [Servidores web y Filepaths](https://docs.google.com/presentation/d/1VgDzYPDcNUyuta3jQUrh5Ih9Q_CyTJJxH_Dv9MDFXbk/edit?usp=sharing)
 * [Bootstrap](https://docs.google.com/presentation/d/1m5zVa8yDWzN--bKqC7f2gv1joKJCEo2xWDK24uAM4-M/edit?usp=sharing)
-* Servidores Web (Apache)
-* Javascript
+* [Javascript](https://docs.google.com/presentation/d/1b_Uw_qRt5NsxTyVA2OM4dYjrN57kPavKxvMPrK2H7zE/edit?usp=sharing)
+* [Javascript Buenas Practicas](https://docs.google.com/presentation/d/1YrnY5Nkp3p_2gFrz9o15VrB1VQT-NLBvyXIKfztf-wU/edit?usp=sharing)
+* [Ajax](https://docs.google.com/presentation/d/1_N8uWbu5TbXL3ryRxITDXeanBtisp_URqBj-VxvHy4o/edit?usp=sharing)
+* [Deploying Applications like a hero!](https://docs.google.com/presentation/d/121VUFvAAVwuqFzgVoIg1PtIwArSk_hUG2ndaGyxnD3I/edit?usp=sharing)
 
 

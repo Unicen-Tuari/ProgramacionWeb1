@@ -1,16 +1,19 @@
-# Programación Web 1
-En este repositorio vas a encontrar toda la información de la cátedra de Programacion Web 1 (TUPAR) Universidad Nacional del Centro de la Provincia de Buenos Aires.
+# Programación Web 1 y 2
+En este repositorio vas a encontrar toda la información de la cátedra de Programacion Web 1 y 2 (TUPAR) Universidad Nacional del Centro de la Provincia de Buenos Aires.
 
 ##Anuncios
-Este Miercoles 29/05 hay clases de 18 a 21hs. 
+<!-- Este Miercoles 29/05 hay clases de 18 a 21hs. -->
 
 
 ## Horarios
-Miercoles 15 a 21 hs
+<!-- Miercoles 15 a 21 hs -->
+* Martes 18 a 21 hs
+* Miércoles 18 a 21 hs
 
 ## Docentes
 * Ignacio Jonas (ijonas@exa.unicen.edu.ar)
 * Javier Dottori (jdottori@exa.unicen.edu.ar)
+* Alejandro Perez (aperez@alumnos.exa.unicen.edu.ar)
 
 ## Aprobación de la materia
 La materia cuenta con 3 instancias de evaluación obligatorias:
@@ -38,4 +41,10 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo praáctico especial.
 * [Ajax](https://docs.google.com/presentation/d/1_N8uWbu5TbXL3ryRxITDXeanBtisp_URqBj-VxvHy4o/edit?usp=sharing)
 * [Deploying Applications like a hero!](https://docs.google.com/presentation/d/121VUFvAAVwuqFzgVoIg1PtIwArSk_hUG2ndaGyxnD3I/edit?usp=sharing)
 
+## Temas - Slides Web 2
+* [Introducción Programación Web 2 2015](https://docs.google.com/presentation/d/1FhG1XJEn2cVvAaTSwhxDHgwGLRZTYy0dwhPp5MzI0QA/edit?usp=sharing)
+* [Scrum](https://docs.google.com/presentation/d/1-3PPFV0EzvLyZraIRJTON_ickYQTtuWFbeJQ2vdwbNk/edit?usp=sharing)
+* [PHP](https://docs.google.com/presentation/d/1Osbnpgl7epXRDNwkHf0GQHuITovpWPq_tIFIvLFqN2E/edit?usp=sharing)
 
+### Prácticos
+* [PHP](https://docs.google.com/document/d/1MCimJTQUSohmHGKQhkd8ldl4DfP4aSC2C-RK7kbsUvo/edit?usp=sharing)

@@ -3,7 +3,7 @@ En este repositorio vas a encontrar toda la información de la cátedra de Progr
 
 ##Anuncios
 <!-- Este Miercoles 29/05 hay clases de 18 a 21hs. -->
-
+Disponible el [práctico 1 (PHP)](#prácticos)
 
 ## Horarios
 <!-- Miercoles 15 a 21 hs -->
@@ -13,7 +13,7 @@ En este repositorio vas a encontrar toda la información de la cátedra de Progr
 ## Docentes
 * Ignacio Jonas (ijonas@exa.unicen.edu.ar)
 * Javier Dottori (jdottori@exa.unicen.edu.ar)
-* Alejandro Perez (aperez@alumnos.exa.unicen.edu.ar)
+* Alejandro Perez (alperez@alumnos.exa.unicen.edu.ar)
 
 ## Aprobación de la materia
 La materia cuenta con 3 instancias de evaluación obligatorias:

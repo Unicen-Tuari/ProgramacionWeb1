@@ -1,16 +1,19 @@
-# Programación Web 1
-En este repositorio vas a encontrar toda la información de la cátedra de Programacion Web 1 (TUPAR) Universidad Nacional del Centro de la Provincia de Buenos Aires.
+# Programación Web 1 y 2
+En este repositorio vas a encontrar toda la información de la cátedra de Programacion Web 1 y 2 (TUPAR) Universidad Nacional del Centro de la Provincia de Buenos Aires.
 
 ##Anuncios
-Este Miercoles 29/05 hay clases de 18 a 21hs. 
-
+<!-- Este Miercoles 29/05 hay clases de 18 a 21hs. -->
+Disponible el [práctico 1 (PHP)](#prácticos)
 
 ## Horarios
-Miercoles 15 a 21 hs
+<!-- Miercoles 15 a 21 hs -->
+* Martes 18 a 21 hs
+* Miércoles 18 a 21 hs
 
 ## Docentes
 * Ignacio Jonas (ijonas@exa.unicen.edu.ar)
 * Javier Dottori (jdottori@exa.unicen.edu.ar)
+* Alejandro Perez (alperez@alumnos.exa.unicen.edu.ar)
 
 ## Aprobación de la materia
 La materia cuenta con 3 instancias de evaluación obligatorias:
@@ -33,7 +36,15 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo praáctico especial.
 * [HTML 5 y CSS3](https://docs.google.com/presentation/d/1qW8j3ShqnMB2RSQpvzFWoqNDLVxc-WRPJt0J2CGfMz4/edit?usp=sharing)
 * [Servidores web y Filepaths](https://docs.google.com/presentation/d/1VgDzYPDcNUyuta3jQUrh5Ih9Q_CyTJJxH_Dv9MDFXbk/edit?usp=sharing)
 * [Bootstrap](https://docs.google.com/presentation/d/1m5zVa8yDWzN--bKqC7f2gv1joKJCEo2xWDK24uAM4-M/edit?usp=sharing)
-* Servidores Web (Apache)
-* Javascript
+* [Javascript](https://docs.google.com/presentation/d/1b_Uw_qRt5NsxTyVA2OM4dYjrN57kPavKxvMPrK2H7zE/edit?usp=sharing)
+* [Javascript Buenas Practicas](https://docs.google.com/presentation/d/1YrnY5Nkp3p_2gFrz9o15VrB1VQT-NLBvyXIKfztf-wU/edit?usp=sharing)
+* [Ajax](https://docs.google.com/presentation/d/1_N8uWbu5TbXL3ryRxITDXeanBtisp_URqBj-VxvHy4o/edit?usp=sharing)
+* [Deploying Applications like a hero!](https://docs.google.com/presentation/d/121VUFvAAVwuqFzgVoIg1PtIwArSk_hUG2ndaGyxnD3I/edit?usp=sharing)
 
+## Temas - Slides Web 2
+* [Introducción Programación Web 2 2015](https://docs.google.com/presentation/d/1FhG1XJEn2cVvAaTSwhxDHgwGLRZTYy0dwhPp5MzI0QA/edit?usp=sharing)
+* [Scrum](https://docs.google.com/presentation/d/1-3PPFV0EzvLyZraIRJTON_ickYQTtuWFbeJQ2vdwbNk/edit?usp=sharing)
+* [PHP](https://docs.google.com/presentation/d/1Osbnpgl7epXRDNwkHf0GQHuITovpWPq_tIFIvLFqN2E/edit?usp=sharing)
 
+### Prácticos
+* [PHP](https://docs.google.com/document/d/1MCimJTQUSohmHGKQhkd8ldl4DfP4aSC2C-RK7kbsUvo/edit?usp=sharing)

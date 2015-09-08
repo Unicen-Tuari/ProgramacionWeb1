@@ -13,7 +13,7 @@ Disponible el [práctico 1 (PHP)](#prácticos)
 ## Docentes
 * Ignacio Jonas (ijonas@exa.unicen.edu.ar)
 * Javier Dottori (jdottori@exa.unicen.edu.ar)
-* Alejandro Perez (alperez@alumnos.exa.unicen.edu.ar)
+* Alejandro Perez (ajperez@exa.unicen.edu.ar)
 
 ## Aprobación de la materia
 La materia cuenta con 3 instancias de evaluación obligatorias:
@@ -24,7 +24,7 @@ La materia cuenta con 3 instancias de evaluación obligatorias:
 ###Promoción
 Si el alumno saca nota >= 7 en Parcial y Trabajo praáctico especial.
 
-## Temas - Slides
+## Temas - Slides Web 1
 * [Introducción Programación Web 2015](https://docs.google.com/presentation/d/1IoWRBgCJlauoFulLvgk6TOkJuj9IPf2R4OqKhMukbTs/edit?usp=sharing)
 * [Desarrollo de Software](https://docs.google.com/presentation/d/1ygIsovLWVaCH7DJoVjk4SN6zQRfN9kcGXSkdeB8KlRU/edit?usp=sharing)
 * [Git](https://docs.google.com/presentation/d/1CL8E1YIEjkl4UUpru5QvcOdWhS8I4qyXWg-XX_TvDDM/edit?usp=sharing)
@@ -45,6 +45,12 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo praáctico especial.
 * [Introducción Programación Web 2 2015](https://docs.google.com/presentation/d/1FhG1XJEn2cVvAaTSwhxDHgwGLRZTYy0dwhPp5MzI0QA/edit?usp=sharing)
 * [Scrum](https://docs.google.com/presentation/d/1-3PPFV0EzvLyZraIRJTON_ickYQTtuWFbeJQ2vdwbNk/edit?usp=sharing)
 * [PHP](https://docs.google.com/presentation/d/1Osbnpgl7epXRDNwkHf0GQHuITovpWPq_tIFIvLFqN2E/edit?usp=sharing)
+* [Smarty](https://docs.google.com/presentation/d/1yjHvy7mRRBZTEpWXhhFuEJbnQC8fyWVfaE1ihUGOOQQ/edit?usp=sharing)
+* [MVC](https://docs.google.com/presentation/d/1m6-AJU8GnRzXMteUiGcnNjrgljsYFZYlNYpk24mQ7U0/edit?usp=sharing)
+* [POO](https://docs.google.com/presentation/d/1LY5uw8-s0osB6vWaQT-kOwNpz8NaqXQZE0IajRHPrQg/edit?usp=sharing)
+* [PDO](https://docs.google.com/presentation/d/11JTlRmmErrBGRpK0bKEl5o86_J5OhYkcnTin41tT7H4/edit?usp=sharing)
 
 ### Prácticos
 * [PHP](https://docs.google.com/document/d/1MCimJTQUSohmHGKQhkd8ldl4DfP4aSC2C-RK7kbsUvo/edit?usp=sharing)
+* [Smarty](https://docs.google.com/document/d/1k7uZRS9Tiof7_hM8ghrZ9jSa2tCcJ-M-LEY2ID_UMVU/edit?usp=sharing)
+* [POO+MVC](https://docs.google.com/document/d/1LqE-G_P1arr8-Ml8BdWUh5KNES2HtaVDs2DEf3_av0k/edit?usp=sharing)

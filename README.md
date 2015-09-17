@@ -3,7 +3,8 @@ En este repositorio vas a encontrar toda la información de la cátedra de Progr
 
 ##Anuncios
 <!-- Este Miercoles 29/05 hay clases de 18 a 21hs. -->
-Disponible el [práctico 1 (PHP)](#prácticos)
+* Disponible el [práctico 4 (BBDD+Archivos)](#prácticos)
+* [Carpeta compartida para Lighting talks](#lts)
 
 ## Horarios
 <!-- Miercoles 15 a 21 hs -->
@@ -49,8 +50,13 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo praáctico especial.
 * [MVC](https://docs.google.com/presentation/d/1m6-AJU8GnRzXMteUiGcnNjrgljsYFZYlNYpk24mQ7U0/edit?usp=sharing)
 * [POO](https://docs.google.com/presentation/d/1LY5uw8-s0osB6vWaQT-kOwNpz8NaqXQZE0IajRHPrQg/edit?usp=sharing)
 * [PDO](https://docs.google.com/presentation/d/11JTlRmmErrBGRpK0bKEl5o86_J5OhYkcnTin41tT7H4/edit?usp=sharing)
+* [AJAX File Upload](https://docs.google.com/presentation/d/101Dw6Lvd3hMYBRX7At3kNH8Mrq4TfBxSH1TkQRaCJaE/edit?usp=sharing)
 
 ### Prácticos
 * [PHP](https://docs.google.com/document/d/1MCimJTQUSohmHGKQhkd8ldl4DfP4aSC2C-RK7kbsUvo/edit?usp=sharing)
 * [Smarty](https://docs.google.com/document/d/1k7uZRS9Tiof7_hM8ghrZ9jSa2tCcJ-M-LEY2ID_UMVU/edit?usp=sharing)
 * [POO+MVC](https://docs.google.com/document/d/1LqE-G_P1arr8-Ml8BdWUh5KNES2HtaVDs2DEf3_av0k/edit?usp=sharing)
+* [BBDD+Archivos](https://docs.google.com/document/d/1cDCf0qRyy6MOJMa4NJ767Df_V5i0XixjwIW-xroVVss/edit?usp=sharing)
+
+### LTs
+* [TODAS](https://drive.google.com/open?id=0B8_RX_ckttbrVUJhajI2SC1VaGM)

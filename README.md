@@ -3,8 +3,7 @@ En este repositorio vas a encontrar toda la información de la cátedra de Progr
 
 ##Anuncios
 <!-- Este Miercoles 29/05 hay clases de 18 a 21hs. -->
-* Disponible el [práctico 4 (BBDD+Archivos)](#prácticos)
-* [Carpeta compartida para Lighting talks](#lts)
+* Disponibles las slides [Web Services](#temas---slides-web-2)
 
 ## Horarios
 <!-- Miercoles 15 a 21 hs -->
@@ -23,7 +22,7 @@ La materia cuenta con 3 instancias de evaluación obligatorias:
 * Parcial
 
 ###Promoción
-Si el alumno saca nota >= 7 en Parcial y Trabajo praáctico especial.
+Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
 
 ## Temas - Slides Web 1
 * [Introducción Programación Web 2015](https://docs.google.com/presentation/d/1IoWRBgCJlauoFulLvgk6TOkJuj9IPf2R4OqKhMukbTs/edit?usp=sharing)
@@ -51,6 +50,7 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo praáctico especial.
 * [POO](https://docs.google.com/presentation/d/1LY5uw8-s0osB6vWaQT-kOwNpz8NaqXQZE0IajRHPrQg/edit?usp=sharing)
 * [PDO](https://docs.google.com/presentation/d/11JTlRmmErrBGRpK0bKEl5o86_J5OhYkcnTin41tT7H4/edit?usp=sharing)
 * [AJAX File Upload](https://docs.google.com/presentation/d/101Dw6Lvd3hMYBRX7At3kNH8Mrq4TfBxSH1TkQRaCJaE/edit?usp=sharing)
+* [Web Services](https://drive.google.com/open?id=1fcCwSatIvB-FFtutKljOdzx5Db3-Z6hLFnDDSG67uJ0)
 
 ### Prácticos
 * [PHP](https://docs.google.com/document/d/1MCimJTQUSohmHGKQhkd8ldl4DfP4aSC2C-RK7kbsUvo/edit?usp=sharing)

@@ -51,7 +51,12 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
 * [PDO](https://docs.google.com/presentation/d/11JTlRmmErrBGRpK0bKEl5o86_J5OhYkcnTin41tT7H4/edit?usp=sharing)
 * [AJAX File Upload](https://docs.google.com/presentation/d/101Dw6Lvd3hMYBRX7At3kNH8Mrq4TfBxSH1TkQRaCJaE/edit?usp=sharing)
 * [Web Services](https://drive.google.com/open?id=1fcCwSatIvB-FFtutKljOdzx5Db3-Z6hLFnDDSG67uJ0)
-* [REST+Mustache](https://docs.google.com/presentation/d/1HGceGKTWzV0Io0rKGLi1J4LRFKnQbEqJxYtnY4bDShc/edit?usp=sharing)
+* [Errores y Excepciones](https://docs.google.com/presentation/d/1G1Pi0lT53kd50aG4Zd7T1WtD55Z2SJvjioQy0a7_Isw/edit?usp=sharing)
+* [REST+Mustache.js](https://docs.google.com/presentation/d/1HGceGKTWzV0Io0rKGLi1J4LRFKnQbEqJxYtnY4bDShc/edit?usp=sharing)
+* [Manejo de sesión](https://docs.google.com/presentation/d/16RRyCFezX12THpA8JttZJ90GkehSGegSNtlX-88TizY/edit?usp=sharing)
+* [Configuración SMTP](https://drive.google.com/open?id=1BaNA87r5ZYpCpwtXCJfejt87kbk6QF8sZxPoaUksevk)
+* [Envío de E-mails](https://drive.google.com/open?id=1qy_3dvVHyEQFhalE4Bhp48vEKl_079cX5qXpGGkZ2x0)
+
 
 ### Prácticos
 * [PHP](https://docs.google.com/document/d/1MCimJTQUSohmHGKQhkd8ldl4DfP4aSC2C-RK7kbsUvo/edit?usp=sharing)

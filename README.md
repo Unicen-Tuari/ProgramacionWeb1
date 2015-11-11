@@ -56,6 +56,7 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
 * [Manejo de sesión](https://docs.google.com/presentation/d/16RRyCFezX12THpA8JttZJ90GkehSGegSNtlX-88TizY/edit?usp=sharing)
 * [Configuración SMTP](https://drive.google.com/open?id=1BaNA87r5ZYpCpwtXCJfejt87kbk6QF8sZxPoaUksevk)
 * [Envío de E-mails](https://drive.google.com/open?id=1qy_3dvVHyEQFhalE4Bhp48vEKl_079cX5qXpGGkZ2x0)
+* [Sistema de aulas](https://drive.google.com/file/d/0B8_RX_ckttbrcjZjdmFXOUVRUGNsRXZKNTY1MloyQ0phUDdV/view?usp=sharing)
 
 
 ### Prácticos

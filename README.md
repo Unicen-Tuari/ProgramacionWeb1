@@ -3,7 +3,7 @@ En este repositorio vas a encontrar toda la información de la cátedra de Progr
 
 ##Anuncios
 <!-- Este Miercoles 29/05 hay clases de 18 a 21hs. -->
-* Disponibles las slides [Web Services](#temas---slides-web-2)
+* No hacemos muchos anuncios, pero estarán aca cuando los haya.
 
 ## Horarios
 <!-- Miercoles 15 a 21 hs -->
@@ -24,7 +24,13 @@ La materia cuenta con 3 instancias de evaluación obligatorias:
 ###Promoción
 Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
 
-## Temas - Slides Web 1
+
+## Slides 2016 (ACTUALES)
+* [Introducción Programación Web](https://docs.google.com/presentation/d/1BCDlSrtvqB38A6m7EFNnn625h6o1jylXTj7moC_maDw/edit?usp=sharing)
+* [Desarrollo de Software](https://docs.google.com/presentation/d/1zpP4rTugGcVpXnQci-afoeuXMS8-CxXgJdzuw8x9ahE/edit?usp=sharing)
+
+## Slides 2015
+### Programación Web 1
 * [Introducción Programación Web 2015](https://docs.google.com/presentation/d/1IoWRBgCJlauoFulLvgk6TOkJuj9IPf2R4OqKhMukbTs/edit?usp=sharing)
 * [Desarrollo de Software](https://docs.google.com/presentation/d/1ygIsovLWVaCH7DJoVjk4SN6zQRfN9kcGXSkdeB8KlRU/edit?usp=sharing)
 * [Git](https://docs.google.com/presentation/d/1CL8E1YIEjkl4UUpru5QvcOdWhS8I4qyXWg-XX_TvDDM/edit?usp=sharing)
@@ -40,8 +46,7 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
 * [Javascript Buenas Practicas](https://docs.google.com/presentation/d/1YrnY5Nkp3p_2gFrz9o15VrB1VQT-NLBvyXIKfztf-wU/edit?usp=sharing)
 * [Ajax](https://docs.google.com/presentation/d/1_N8uWbu5TbXL3ryRxITDXeanBtisp_URqBj-VxvHy4o/edit?usp=sharing)
 * [Deploying Applications like a hero!](https://docs.google.com/presentation/d/121VUFvAAVwuqFzgVoIg1PtIwArSk_hUG2ndaGyxnD3I/edit?usp=sharing)
-
-## Temas - Slides Web 2
+### Programación Web 2
 * [Introducción Programación Web 2 2015](https://docs.google.com/presentation/d/1FhG1XJEn2cVvAaTSwhxDHgwGLRZTYy0dwhPp5MzI0QA/edit?usp=sharing)
 * [Scrum](https://docs.google.com/presentation/d/1-3PPFV0EzvLyZraIRJTON_ickYQTtuWFbeJQ2vdwbNk/edit?usp=sharing)
 * [PHP](https://docs.google.com/presentation/d/1Osbnpgl7epXRDNwkHf0GQHuITovpWPq_tIFIvLFqN2E/edit?usp=sharing)
@@ -58,16 +63,19 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
 * [Envío de E-mails](https://drive.google.com/open?id=1qy_3dvVHyEQFhalE4Bhp48vEKl_079cX5qXpGGkZ2x0)
 
 
-### Prácticos
+### Prácticos 2015
 * [PHP](https://docs.google.com/document/d/1MCimJTQUSohmHGKQhkd8ldl4DfP4aSC2C-RK7kbsUvo/edit?usp=sharing)
 * [Smarty](https://docs.google.com/document/d/1k7uZRS9Tiof7_hM8ghrZ9jSa2tCcJ-M-LEY2ID_UMVU/edit?usp=sharing)
 * [POO+MVC](https://docs.google.com/document/d/1LqE-G_P1arr8-Ml8BdWUh5KNES2HtaVDs2DEf3_av0k/edit?usp=sharing)
 * [BBDD+Archivos](https://docs.google.com/document/d/1cDCf0qRyy6MOJMa4NJ767Df_V5i0XixjwIW-xroVVss/edit?usp=sharing)
 
-### LTs
+<!-- ### LTs
 * [TODAS](https://drive.google.com/open?id=0B8_RX_ckttbrVUJhajI2SC1VaGM)
- 
+ -->
+
+ <!-- ### LTs
 ### Experiencias en la Web
 * [Let's Talk About Design](https://drive.google.com/file/d/0B3DK5GiNKPN_RVltd2NjSWF4Q28/view?usp=sharing)
 * [Sistema de aulas](https://drive.google.com/file/d/0B8_RX_ckttbrcjZjdmFXOUVRUGNsRXZKNTY1MloyQ0phUDdV/view?usp=sharing)
 * [Reservable](https://drive.google.com/file/d/0B3DK5GiNKPN_RC15eTEzS1JrTVE/view?usp=sharing)
+-->

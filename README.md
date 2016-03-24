@@ -28,6 +28,8 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
 ## Slides 2016 (ACTUALES)
 * [Introducción Programación Web](https://docs.google.com/presentation/d/1BCDlSrtvqB38A6m7EFNnn625h6o1jylXTj7moC_maDw/edit?usp=sharing)
 * [Desarrollo de Software](https://docs.google.com/presentation/d/1zpP4rTugGcVpXnQci-afoeuXMS8-CxXgJdzuw8x9ahE/edit?usp=sharing)
+* [Scrum](https://docs.google.com/presentation/d/1IAjz5pBiIsr_dez3FHLPTZjfDPIvOnoyT2g1jhRqAD8/edit?usp=sharing)
+* [Scrum Tupar](https://docs.google.com/presentation/d/1Sw7WZLKIKkGQS2qlnZVCLoa77DSCTdCYMYNdd2-Nht8/edit?usp=sharing)
 
 ## Slides 2015
 ### Programación Web 1
@@ -46,6 +48,7 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
 * [Javascript Buenas Practicas](https://docs.google.com/presentation/d/1YrnY5Nkp3p_2gFrz9o15VrB1VQT-NLBvyXIKfztf-wU/edit?usp=sharing)
 * [Ajax](https://docs.google.com/presentation/d/1_N8uWbu5TbXL3ryRxITDXeanBtisp_URqBj-VxvHy4o/edit?usp=sharing)
 * [Deploying Applications like a hero!](https://docs.google.com/presentation/d/121VUFvAAVwuqFzgVoIg1PtIwArSk_hUG2ndaGyxnD3I/edit?usp=sharing)
+
 ### Programación Web 2
 * [Introducción Programación Web 2 2015](https://docs.google.com/presentation/d/1FhG1XJEn2cVvAaTSwhxDHgwGLRZTYy0dwhPp5MzI0QA/edit?usp=sharing)
 * [Scrum](https://docs.google.com/presentation/d/1-3PPFV0EzvLyZraIRJTON_ickYQTtuWFbeJQ2vdwbNk/edit?usp=sharing)

@@ -76,9 +76,8 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
 * [TODAS](https://drive.google.com/open?id=0B8_RX_ckttbrVUJhajI2SC1VaGM)
  -->
 
- <!-- ### LTs
 ### Experiencias en la Web
 * [Let's Talk About Design](https://drive.google.com/file/d/0B3DK5GiNKPN_RVltd2NjSWF4Q28/view?usp=sharing)
 * [Sistema de aulas](https://drive.google.com/file/d/0B8_RX_ckttbrcjZjdmFXOUVRUGNsRXZKNTY1MloyQ0phUDdV/view?usp=sharing)
 * [Reservable](https://drive.google.com/file/d/0B3DK5GiNKPN_RC15eTEzS1JrTVE/view?usp=sharing)
--->
+ 

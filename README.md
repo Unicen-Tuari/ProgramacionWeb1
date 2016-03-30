@@ -31,6 +31,8 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
 * [Scrum](https://docs.google.com/presentation/d/1IAjz5pBiIsr_dez3FHLPTZjfDPIvOnoyT2g1jhRqAD8/edit?usp=sharing)
 * [Scrum Tupar](https://docs.google.com/presentation/d/1Sw7WZLKIKkGQS2qlnZVCLoa77DSCTdCYMYNdd2-Nht8/edit?usp=sharing)
 * [HTML y CSS - Parte 1](https://docs.google.com/presentation/d/114Zyy2M_JE548VCvjghfRtUvCKyvEO5_G3DoLeHOB2E/edit?usp=sharing)
+* [HTML y CSS - Parte 2](https://docs.google.com/presentation/d/1N1hbj-SxYok73Tgnh9CCbovyzKnoNER3sdXNFK0RmJw/edit?usp=sharing)
+* [Organización de archivos](https://docs.google.com/presentation/d/12csc9ei5-v10bSrEcXijWj54fBFUXURhjmum55mwdZU/edit?usp=sharing)
 
 ## Slides 2015
 ### Programación Web 1
@@ -81,4 +83,3 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
 * [Let's Talk About Design](https://drive.google.com/file/d/0B3DK5GiNKPN_RVltd2NjSWF4Q28/view?usp=sharing)
 * [Sistema de aulas](https://drive.google.com/file/d/0B8_RX_ckttbrcjZjdmFXOUVRUGNsRXZKNTY1MloyQ0phUDdV/view?usp=sharing)
 * [Reservable](https://drive.google.com/file/d/0B3DK5GiNKPN_RC15eTEzS1JrTVE/view?usp=sharing)
- 

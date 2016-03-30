@@ -30,6 +30,7 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
 * [Desarrollo de Software](https://docs.google.com/presentation/d/1zpP4rTugGcVpXnQci-afoeuXMS8-CxXgJdzuw8x9ahE/edit?usp=sharing)
 * [Scrum](https://docs.google.com/presentation/d/1IAjz5pBiIsr_dez3FHLPTZjfDPIvOnoyT2g1jhRqAD8/edit?usp=sharing)
 * [Scrum Tupar](https://docs.google.com/presentation/d/1Sw7WZLKIKkGQS2qlnZVCLoa77DSCTdCYMYNdd2-Nht8/edit?usp=sharing)
+* [HTML y CSS - Parte 1](https://docs.google.com/presentation/d/114Zyy2M_JE548VCvjghfRtUvCKyvEO5_G3DoLeHOB2E/edit?usp=sharing)
 
 ## Slides 2015
 ### Programación Web 1

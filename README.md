@@ -33,6 +33,9 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
 * [HTML y CSS - Parte 1](https://docs.google.com/presentation/d/114Zyy2M_JE548VCvjghfRtUvCKyvEO5_G3DoLeHOB2E/edit?usp=sharing)
 * [HTML y CSS - Parte 2](https://docs.google.com/presentation/d/1N1hbj-SxYok73Tgnh9CCbovyzKnoNER3sdXNFK0RmJw/edit?usp=sharing)
 * [Organización de archivos](https://docs.google.com/presentation/d/12csc9ei5-v10bSrEcXijWj54fBFUXURhjmum55mwdZU/edit?usp=sharing)
+* [CSS Avanzado](https://docs.google.com/presentation/d/1x5QQ-8u1aS8Dr31dMe4-AQ4hvmAsimoq-kDMC5X20wc/edit?usp=sharing)
+* [Box Model](https://docs.google.com/presentation/d/1U-s-IJaHRsxQeAu2FD29kee0pFWq9Q-P_pT3haxljV0/edit?usp=sharing)
+
 
 ## Slides 2015
 ### Programación Web 1

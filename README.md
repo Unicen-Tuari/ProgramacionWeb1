@@ -3,12 +3,12 @@ En este repositorio vas a encontrar toda la información de la cátedra de Progr
 
 ##Anuncios
 <!-- Este Miercoles 29/05 hay clases de 18 a 21hs. -->
-* No hacemos muchos anuncios, pero estarán aca cuando los haya.
+Miercoles 27/04 entrega de trabajos practicos especiales compuestos por: La pagina web y el juego de la ruleta
+[Enunciado ](https://docs.google.com/document/d/1-xuXQ1XLSILJeamYK71r-zA2yXEK0BZodL43a_k3J-g/edit)
 
 ## Horarios
 <!-- Miercoles 15 a 21 hs -->
-* Martes 18 a 21 hs
-* Miércoles 18 a 21 hs
+* Miércoles 15 a 21 hs
 
 ## Docentes
 * Ignacio Jonas (ijonas@exa.unicen.edu.ar)
@@ -21,13 +21,14 @@ La materia cuenta con 3 instancias de evaluación obligatorias:
 * Trabajo practico especial
 * Parcial
 
-###Promoción
+### Promoción
 Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
 
 
 ## Slides 2016 (ACTUALES)
 * [Introducción Programación Web](https://docs.google.com/presentation/d/1BCDlSrtvqB38A6m7EFNnn625h6o1jylXTj7moC_maDw/edit?usp=sharing)
 * [Desarrollo de Software](https://docs.google.com/presentation/d/1zpP4rTugGcVpXnQci-afoeuXMS8-CxXgJdzuw8x9ahE/edit?usp=sharing)
+* [GIT](https://docs.google.com/presentation/d/1KXAJ74SY1YNe7M-Df3yfMGG_8TFd7TZrcgKYrRKnsDM/edit?usp=sharing)
 * [Scrum](https://docs.google.com/presentation/d/1IAjz5pBiIsr_dez3FHLPTZjfDPIvOnoyT2g1jhRqAD8/edit?usp=sharing)
 * [Scrum Tupar](https://docs.google.com/presentation/d/1Sw7WZLKIKkGQS2qlnZVCLoa77DSCTdCYMYNdd2-Nht8/edit?usp=sharing)
 * [HTML y CSS - Parte 1](https://docs.google.com/presentation/d/114Zyy2M_JE548VCvjghfRtUvCKyvEO5_G3DoLeHOB2E/edit?usp=sharing)
@@ -35,6 +36,7 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
 * [Organización de archivos](https://docs.google.com/presentation/d/12csc9ei5-v10bSrEcXijWj54fBFUXURhjmum55mwdZU/edit?usp=sharing)
 * [CSS Avanzado](https://docs.google.com/presentation/d/1x5QQ-8u1aS8Dr31dMe4-AQ4hvmAsimoq-kDMC5X20wc/edit?usp=sharing)
 * [Box Model](https://docs.google.com/presentation/d/1U-s-IJaHRsxQeAu2FD29kee0pFWq9Q-P_pT3haxljV0/edit?usp=sharing)
+* [Javascript](https://docs.google.com/presentation/d/1BleyQpGHEYhD7LbARLmMsG_D_6rjgNkxy_qO3Opgi80/edit?usp=sharing)
 
 
 ## Slides 2015

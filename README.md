@@ -37,7 +37,7 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
 * [CSS Avanzado](https://docs.google.com/presentation/d/1x5QQ-8u1aS8Dr31dMe4-AQ4hvmAsimoq-kDMC5X20wc/edit?usp=sharing)
 * [Box Model](https://docs.google.com/presentation/d/1U-s-IJaHRsxQeAu2FD29kee0pFWq9Q-P_pT3haxljV0/edit?usp=sharing)
 * [Javascript](https://docs.google.com/presentation/d/1BleyQpGHEYhD7LbARLmMsG_D_6rjgNkxy_qO3Opgi80/edit?usp=sharing)
-
+* [HTML 5 - Web Semántica](https://docs.google.com/presentation/d/1r42h_6F8mOnNFiKz1RHAes-PuS6SYZrqx0TJxVRKp9c/edit?usp=sharing)
 
 ## Slides 2015
 ### Programación Web 1

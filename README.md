@@ -38,21 +38,11 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
 * [Box Model](https://docs.google.com/presentation/d/1U-s-IJaHRsxQeAu2FD29kee0pFWq9Q-P_pT3haxljV0/edit?usp=sharing)
 * [Javascript](https://docs.google.com/presentation/d/1BleyQpGHEYhD7LbARLmMsG_D_6rjgNkxy_qO3Opgi80/edit?usp=sharing)
 * [HTML 5 - Web Semántica](https://docs.google.com/presentation/d/1r42h_6F8mOnNFiKz1RHAes-PuS6SYZrqx0TJxVRKp9c/edit?usp=sharing)
+* [Bootstrap] (https://docs.google.com/presentation/d/1kLhdRgDqZ1lX8MGvg-wX_SCnX4LH7MR6HsHwYpCeJ40/)
 
 ## Slides 2015
 ### Programación Web 1
 * [Introducción Programación Web 2015](https://docs.google.com/presentation/d/1IoWRBgCJlauoFulLvgk6TOkJuj9IPf2R4OqKhMukbTs/edit?usp=sharing)
-* [Desarrollo de Software](https://docs.google.com/presentation/d/1ygIsovLWVaCH7DJoVjk4SN6zQRfN9kcGXSkdeB8KlRU/edit?usp=sharing)
-* [Git](https://docs.google.com/presentation/d/1CL8E1YIEjkl4UUpru5QvcOdWhS8I4qyXWg-XX_TvDDM/edit?usp=sharing)
-* [HTML y CSS Introduccion](https://docs.google.com/presentation/d/1fHNc8FvEScGhYGwaTskkvVxthuov66mdroibm1dxMXM/edit?usp=sharing)
-* [Selectores CSS](https://docs.google.com/presentation/d/1lcKlAPf8R6KYdTWKIdecNi9RodIO76qh5xSM_QWzM7g/edit?usp=sharing)
-* [HTML Tablas y Forms](https://docs.google.com/presentation/d/1nzaevqoRBnu4iQEdd31Zk853NDpYMr4jcGYf14rUcWk/edit?usp=sharing)
-* [HTML Semantica](https://docs.google.com/presentation/d/1gdlZmecgZuRqwln961ZaNnTYs70qwEJjHZEMFxl0FXU/edit?usp=sharing)
-* [Box Model](https://docs.google.com/presentation/d/13hHbqPbwg1MQyke0v9o17eh_i81Au4z7zzJ2HEzkPEA/edit?usp=sharing)
-* [HTML 5 y CSS3](https://docs.google.com/presentation/d/1qW8j3ShqnMB2RSQpvzFWoqNDLVxc-WRPJt0J2CGfMz4/edit?usp=sharing)
-* [Servidores web y Filepaths](https://docs.google.com/presentation/d/1VgDzYPDcNUyuta3jQUrh5Ih9Q_CyTJJxH_Dv9MDFXbk/edit?usp=sharing)
-* [Bootstrap](https://docs.google.com/presentation/d/1m5zVa8yDWzN--bKqC7f2gv1joKJCEo2xWDK24uAM4-M/edit?usp=sharing)
-* [Javascript](https://docs.google.com/presentation/d/1b_Uw_qRt5NsxTyVA2OM4dYjrN57kPavKxvMPrK2H7zE/edit?usp=sharing)
 * [Javascript Buenas Practicas](https://docs.google.com/presentation/d/1YrnY5Nkp3p_2gFrz9o15VrB1VQT-NLBvyXIKfztf-wU/edit?usp=sharing)
 * [Ajax](https://docs.google.com/presentation/d/1_N8uWbu5TbXL3ryRxITDXeanBtisp_URqBj-VxvHy4o/edit?usp=sharing)
 * [Deploying Applications like a hero!](https://docs.google.com/presentation/d/121VUFvAAVwuqFzgVoIg1PtIwArSk_hUG2ndaGyxnD3I/edit?usp=sharing)

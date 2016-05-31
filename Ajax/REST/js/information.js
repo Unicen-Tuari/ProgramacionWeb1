@@ -1,41 +1,46 @@
 
 function getInformationByGroup(){
   event.preventDefault();
-  var grupo = $("#groupid")[0].value;
+  var grupo = $("#groupid").val();
   $.ajax({
-     type: "GET",
+     method: "GET",
      dataType: 'JSON',
      url: "http://web-unicen.herokuapp.com/api/group/" + grupo,
-     success: function(data){
+     success: function(resultData){
+       //al ser tipo JSON resultData es un objeto listo para usar
        var html = "";
-       for (var i = 0; i < data.information.length; i++) {
-         html += "Id: " + data.information[i]['_id'] + "</br>";
-         html += "Grupo: " + data.information[i]['group'] + "</br>";
-         html += "Informacion: " + data.information[i]['thing'] + "</br>";
-         html += "--------------------- </br>";
+       for (var i = 0; i < resultData.information.length; i++) {
+         html += "Id: " + resultData.information[i]['_id'] + "<br />";
+         html += "Grupo: " + resultData.information[i]['group'] + "<br />";
+         html += "Informacion: " + resultData.information[i]['thing'] + "<br />";
+         html += "--------------------- <br />";
        }
        $("#infoGroup").html(html);
+     },
+     error:function(jqxml, status, errorThrown){
+       console.log(errorThrown);
      }
   });
 }
 
 function getInformationByItem(){
   event.preventDefault();
-  var item = $("#itemid")[0].value;
+  var item = $("#itemid").val();
   $.ajax({
-     type: "GET",
+     method: "GET",
      dataType: 'JSON',
      url: "http://web-unicen.herokuapp.com/api/get/" + item,
-     success: function(data){
+     success: function(resultData){
+       //al decir que dataType es JSON, ya resultData es un objeto
        var html = "";
-       html += "Id: " + data.information['_id'] + "</br>";
-       html += "Grupo: " + data.information['group'] + "</br>";
-       html += "Informacion: " + data.information['thing'] + "</br>";
+       html += "Id: " + resultData.information['_id'] + "<br />";
+       html += "Grupo: " + resultData.information['group'] + "<br />";
+       html += "Informacion: " + resultData.information['thing'] + "<br />";
        html += "--------------------- </br>";
        $("#infoItem").html(html);
      },
-     error:function(data){
-       console.log(data);
+     error:function(jqxml, status, errorThrown){
+       console.log(errorThrown);
      }
 
   });
@@ -43,30 +48,36 @@ function getInformationByItem(){
 
 function guardarInformacion(){
   event.preventDefault();
-  var grupo = $("#grupo")[0].value;
-  var informacion = $("#informacion")[0].value;
+  var grupo = $("#grupo").val();
+  var informacion = $("#informacion").val();
+  //la estructura que debemos enviar es especifica de cada servicio que usemos
+  //en este caso un hay que enviar un objeto con el numero de grupo y con lo que queramos guardarInformacion
+  //thing puede ser un objeto JSON con tanta información como queramos (en este servicio)
   var info = {
-      "group": grupo,
-      "thing": informacion
+      group: grupo,
+      thing: informacion //puede ser un objeto JSON!
       };
 
   if (grupo && informacion){
     $.ajax({
-       type: "POST",
+       method: "POST",
        dataType: 'JSON',
+       //se debe serializar (stringify) la informacion (el "data:" de ida es de tipo string)
        data: JSON.stringify(info),
        contentType: "application/json; charset=utf-8",
        url: "http://web-unicen.herokuapp.com/api/create",
-       success: function(data){
+       success: function(resultData){
          $("#guardarAlert").removeClass("alert-danger")
          $("#guardarAlert").addClass("alert-success")
-         $("#guardarAlert").html("Informacion guardada con ID=" + data.information._id);
-         console.log(data);
+         //como le dimos dataType:"JSON" el resultData ya es un objeto
+         //la estructura que devuelve es especifica de cada servicio que usemos
+         $("#guardarAlert").html("Informacion guardada con ID=" + resultData.information._id);
+         console.log(resultData);
        },
-       error:function(data){
+       error:function(jqxml, status, errorThrown){
+         console.log(errorThrown);
          $("#guardarAlert").addClass("alert-danger")
          $("#guardarAlert").html("Error por favor intente mas tarde");
-         console.log(data);
        }
     });
   }

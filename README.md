@@ -39,6 +39,8 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
 * [Javascript](https://docs.google.com/presentation/d/1BleyQpGHEYhD7LbARLmMsG_D_6rjgNkxy_qO3Opgi80/edit?usp=sharing)
 * [HTML 5 - Web Semántica](https://docs.google.com/presentation/d/1r42h_6F8mOnNFiKz1RHAes-PuS6SYZrqx0TJxVRKp9c/edit?usp=sharing)
 * [Bootstrap] (https://docs.google.com/presentation/d/1kLhdRgDqZ1lX8MGvg-wX_SCnX4LH7MR6HsHwYpCeJ40/)
+* [JS POO - JQuery] (https://docs.google.com/presentation/d/1RUy_WI5xdT4ihhE4tiwFnpwSFmufEx9WkJA0rsHDXYI/edit?usp=sharing)
+* [AJAX] (https://docs.google.com/presentation/d/1dinzmpzOd-rrOaZtWwDvAxFTujiJESdtYa9GYSGaFq0/edit?usp=sharing)
 
 ## Slides 2015
 ### Programación Web 1

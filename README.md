@@ -41,13 +41,10 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
 * [Bootstrap] (https://docs.google.com/presentation/d/1kLhdRgDqZ1lX8MGvg-wX_SCnX4LH7MR6HsHwYpCeJ40/)
 * [JS POO - JQuery] (https://docs.google.com/presentation/d/1RUy_WI5xdT4ihhE4tiwFnpwSFmufEx9WkJA0rsHDXYI/edit?usp=sharing)
 * [AJAX] (https://docs.google.com/presentation/d/1dinzmpzOd-rrOaZtWwDvAxFTujiJESdtYa9GYSGaFq0/edit?usp=sharing)
+* [Heroku] (https://docs.google.com/presentation/d/1jJ9gRL8vezXE0jI2XJd8k3VzjyeYAVEzVBudsd57rAw/edit?usp=sharing)
 
 ## Slides 2015
-### Programación Web 1
-* [Introducción Programación Web 2015](https://docs.google.com/presentation/d/1IoWRBgCJlauoFulLvgk6TOkJuj9IPf2R4OqKhMukbTs/edit?usp=sharing)
-* [Javascript Buenas Practicas](https://docs.google.com/presentation/d/1YrnY5Nkp3p_2gFrz9o15VrB1VQT-NLBvyXIKfztf-wU/edit?usp=sharing)
-* [Ajax](https://docs.google.com/presentation/d/1_N8uWbu5TbXL3ryRxITDXeanBtisp_URqBj-VxvHy4o/edit?usp=sharing)
-* [Deploying Applications like a hero!](https://docs.google.com/presentation/d/121VUFvAAVwuqFzgVoIg1PtIwArSk_hUG2ndaGyxnD3I/edit?usp=sharing)
+<!-- * [Introducción Programación Web 1 2015](https://docs.google.com/presentation/d/1IoWRBgCJlauoFulLvgk6TOkJuj9IPf2R4OqKhMukbTs/edit?usp=sharing) -->
 
 ### Programación Web 2
 * [Introducción Programación Web 2 2015](https://docs.google.com/presentation/d/1FhG1XJEn2cVvAaTSwhxDHgwGLRZTYy0dwhPp5MzI0QA/edit?usp=sharing)

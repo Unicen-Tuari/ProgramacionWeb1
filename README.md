@@ -43,6 +43,11 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
 * [AJAX] (https://docs.google.com/presentation/d/1dinzmpzOd-rrOaZtWwDvAxFTujiJESdtYa9GYSGaFq0/edit?usp=sharing)
 * [Heroku] (https://docs.google.com/presentation/d/1jJ9gRL8vezXE0jI2XJd8k3VzjyeYAVEzVBudsd57rAw/edit?usp=sharing)
 
+### Programación Web 2
+* [Introducción Programación Web 2 2016](https://drive.google.com/open?id=1UeoH4hC0_f2Nh2RoUYQ-fP-38y8Mj8vgF3Ab4zW1WA4)
+* [PHP](https://docs.google.com/presentation/d/1-LRBm2UN7oIXl-bcacrD8witQva86HMyMRZNOXXmaDo/edit?usp=sharing)
+* [Smarty](https://docs.google.com/presentation/d/1KVdkIOZmbNnJ0vhtEb-F1XJVSMO29tVati6gw7uoiWI/edit?usp=sharing)
+
 ## Slides 2015
 <!-- * [Introducción Programación Web 1 2015](https://docs.google.com/presentation/d/1IoWRBgCJlauoFulLvgk6TOkJuj9IPf2R4OqKhMukbTs/edit?usp=sharing) -->
 

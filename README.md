@@ -48,6 +48,10 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
 * [PHP](https://docs.google.com/presentation/d/1-LRBm2UN7oIXl-bcacrD8witQva86HMyMRZNOXXmaDo/edit?usp=sharing)
 * [Smarty](https://docs.google.com/presentation/d/1KVdkIOZmbNnJ0vhtEb-F1XJVSMO29tVati6gw7uoiWI/edit?usp=sharing)
 
+## Prácticos 2016
+* [PHP](https://drive.google.com/open?id=1RExE53yiFo-Hxlg-AZGCSPyo6qZbthKl13SEXb-Scy8)
+* [Smarty](https://drive.google.com/open?id=1GlxZghJu11tMGMNxLwmXaKTjE0OImgEU6s7apIA4M-w)
+
 ## Slides 2015
 <!-- * [Introducción Programación Web 1 2015](https://docs.google.com/presentation/d/1IoWRBgCJlauoFulLvgk6TOkJuj9IPf2R4OqKhMukbTs/edit?usp=sharing) -->
 
@@ -66,7 +70,6 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
 * [Manejo de sesión](https://docs.google.com/presentation/d/16RRyCFezX12THpA8JttZJ90GkehSGegSNtlX-88TizY/edit?usp=sharing)
 * [Configuración SMTP](https://drive.google.com/open?id=1BaNA87r5ZYpCpwtXCJfejt87kbk6QF8sZxPoaUksevk)
 * [Envío de E-mails](https://drive.google.com/open?id=1qy_3dvVHyEQFhalE4Bhp48vEKl_079cX5qXpGGkZ2x0)
-
 
 ### Prácticos 2015
 * [PHP](https://docs.google.com/document/d/1MCimJTQUSohmHGKQhkd8ldl4DfP4aSC2C-RK7kbsUvo/edit?usp=sharing)

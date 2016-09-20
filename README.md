@@ -48,6 +48,11 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
 * [PHP](https://docs.google.com/presentation/d/1-LRBm2UN7oIXl-bcacrD8witQva86HMyMRZNOXXmaDo/edit?usp=sharing)
 * [Smarty](https://docs.google.com/presentation/d/1KVdkIOZmbNnJ0vhtEb-F1XJVSMO29tVati6gw7uoiWI/edit?usp=sharing)
 * [MVC](https://docs.google.com/presentation/d/1eHqFovLe0HC5ckGLc82LZEgixFpUhcBpPsCT3cpl7Q8/edit?usp=sharing)
+* [PDO](https://docs.google.com/presentation/d/1WKsmuVUfpc8NSENZej0rC613bn51UJeC8N5B7yfFHfg/edit?usp=sharing)
+* [Transacciones y Excepciones](https://docs.google.com/presentation/d/18SwT0Un5XT5B0XvGRyRfjQcAZ3w_HmCLlNCadHoJ3gY/edit?usp=sharing)
+* [Carga de archivos](https://docs.google.com/presentation/d/1mznGiEvZLuRVKdDI-5D43mv7aV3K18L4Qg1h3TAGmKs/edit?usp=sharing)
+* [Carga de archivos AJAX](https://docs.google.com/presentation/d/1rwfRIhzBp5lJYlCc483J07jXyf-FSKVR-TNaqpoA51I/edit?usp=sharing)
+* [Ruteo y Pretty URLs](https://docs.google.com/presentation/d/1suXrWQr6_HB5UoL1AQFK-skOR8ExCf5HNl-zDPHpGzg/edit?usp=sharing)
 
 ## Prácticos 2016
 * [PHP](https://drive.google.com/open?id=1RExE53yiFo-Hxlg-AZGCSPyo6qZbthKl13SEXb-Scy8)

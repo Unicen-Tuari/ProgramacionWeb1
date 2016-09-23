@@ -3,8 +3,10 @@ En este repositorio vas a encontrar toda la información de la cátedra de Progr
 
 ##Anuncios
 <!-- Este Miercoles 29/05 hay clases de 18 a 21hs. -->
-Miercoles 27/04 entrega de trabajos practicos especiales compuestos por: La pagina web y el juego de la ruleta
-[Enunciado ](https://docs.google.com/document/d/1-xuXQ1XLSILJeamYK71r-zA2yXEK0BZodL43a_k3J-g/edit)
+###Fechas importante (2016)
+* Parcial: 24 Octubre
+* Recuperatorio: 7 Noviembre
+* Prefinal: 1er fecha de final
 
 ## Horarios
 <!-- Miercoles 15 a 21 hs -->

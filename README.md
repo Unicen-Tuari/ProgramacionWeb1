@@ -4,9 +4,9 @@ En este repositorio vas a encontrar toda la información de la cátedra de Progr
 ##Anuncios
 <!-- Este Miercoles 29/05 hay clases de 18 a 21hs. -->
 ###Fechas importante (2016)
-* Parcial: 24 Octubre
-* Recuperatorio: 7 Noviembre
-* Prefinal: 1er fecha de final
+* Parcial: 3 Noviembre - 18 hs
+* Recuperatorio: 17 Noviembre - 18 hs
+* Prefinal: 1 Diciembre - 18 hs
 
 ## Horarios
 <!-- Miercoles 15 a 21 hs -->

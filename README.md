@@ -58,6 +58,7 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
 * Web Services [[#1](https://drive.google.com/open?id=1Na5FTEPCiHMDVnurKETOS_BvQyjqTUhBqbDNaRyyq2A)][[#2](https://drive.google.com/open?id=14YF2lVcNEiuVZPsOuZbCb9KFhQuFZAQD1vj50jDdqmM)][[#3](https://drive.google.com/open?id=1JSg4U_FKBAXdq5XZ5oqKoVgVlMWcaxeWUavhfd0zAhI)]
 * [Envío de Emails](https://docs.google.com/presentation/d/1tkVc5OEuE1MzIMg00cRnmQLHD8Itzb-Q_h1dIrT46nU/edit?usp=sharing)
 * [Introducción a Lumen Framework](https://docs.google.com/presentation/d/1SNkY0IxXc_Z6Up5qttfVeX6jH8K5Yf8xZXynS_1DJTY/edit?usp=sharing)
+* [Manejo de Sesión](https://docs.google.com/presentation/d/1dUirIeNprJyG_X16SroMOekrwNXNKbGAc7AqiW9m7F4/edit?usp=sharing)
 
 ## Prácticos 2016
 * [PHP](https://drive.google.com/open?id=1RExE53yiFo-Hxlg-AZGCSPyo6qZbthKl13SEXb-Scy8)

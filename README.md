@@ -3,19 +3,21 @@ En este repositorio vas a encontrar toda la información de la cátedra de Progr
 
 ##Anuncios
 <!-- Este Miercoles 29/05 hay clases de 18 a 21hs. -->
-###Fechas importante (2016)
-* Parcial: 3 Noviembre - 18 hs
-* Recuperatorio: 17 Noviembre - 18 hs
-* Prefinal: 1 Diciembre - 18 hs
+
+###Fechas importante (2017)
+* Parcial: A confirmar - 18 hs
+* Recuperatorio: A confirmar - 18 hs
+* Prefinal: Junto a Final - 18 hs
 
 ## Horarios
 <!-- Miercoles 15 a 21 hs -->
-* Miércoles 15 a 21 hs
+* Martes 12 a 15 hs
+* Miércoles 18 a 21 hs
 
 ## Docentes
 * Ignacio Jonas (ijonas@exa.unicen.edu.ar)
 * Javier Dottori (jdottori@exa.unicen.edu.ar)
-* Alejandro Perez (ajperez@exa.unicen.edu.ar)
+<!-- * Alejandro Perez (ajperez@exa.unicen.edu.ar) -->
 
 ## Aprobación de la materia
 La materia cuenta con 3 instancias de evaluación obligatorias:
@@ -26,8 +28,13 @@ La materia cuenta con 3 instancias de evaluación obligatorias:
 ### Promoción
 Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
 
+## Slides 2017 (ACTUALES)
+* [Introducción Programación Web](https://docs.google.com/presentation/d/1NtyZeoq4aq1qqtMNqqldJMj9Zd9sBRSnR8T4clTWhn0/edit?usp=sharing)
+* [Desarrollo de Software](https://docs.google.com/presentation/d/1gHlzQp3ESZpokcJ8Ttc7xMY25lOtGz3Xp05EOzoWTds/edit?usp=sharing)
 
-## Slides 2016 (ACTUALES)
+
+
+## Slides 2016
 * [Introducción Programación Web](https://docs.google.com/presentation/d/1BCDlSrtvqB38A6m7EFNnn625h6o1jylXTj7moC_maDw/edit?usp=sharing)
 * [Desarrollo de Software](https://docs.google.com/presentation/d/1zpP4rTugGcVpXnQci-afoeuXMS8-CxXgJdzuw8x9ahE/edit?usp=sharing)
 * [GIT](https://docs.google.com/presentation/d/1KXAJ74SY1YNe7M-Df3yfMGG_8TFd7TZrcgKYrRKnsDM/edit?usp=sharing)

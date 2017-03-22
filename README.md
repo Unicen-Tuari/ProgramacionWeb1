@@ -31,6 +31,10 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
 ## Slides 2017 (ACTUALES)
 * [Introducción Programación Web](https://docs.google.com/presentation/d/1NtyZeoq4aq1qqtMNqqldJMj9Zd9sBRSnR8T4clTWhn0/edit?usp=sharing)
 * [Desarrollo de Software](https://docs.google.com/presentation/d/1gHlzQp3ESZpokcJ8Ttc7xMY25lOtGz3Xp05EOzoWTds/edit?usp=sharing)
+* [GIT](https://docs.google.com/presentation/d/1TlpINT7ldK7S1-6NGD_jWgz9Cyk14-Y7pZ8fMhmeqN8/edit?usp=sharing)
+* [01-HTML y CSS](https://docs.google.com/presentation/d/173c2yqqcDUV6ohGOshH03qxLfYfWjuTQrmD3XPyD3YQ/edit?usp=sharing)
+* [02-HTML y CSS](https://docs.google.com/presentation/d/1vlyV5dXL-WctX4gWcbEdf8mg1lBwRJbl1xxJc8-aWH8/edit?usp=sharing)
+* [03 - Organizacion de Archivos](https://docs.google.com/presentation/d/1X3yeNjrqHqN0auZSJHKVJrQj0wXX_X2wxXHq7DUI5ek/edit?usp=sharing)
 
 
 

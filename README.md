@@ -35,6 +35,7 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
 * [01-HTML y CSS](https://docs.google.com/presentation/d/173c2yqqcDUV6ohGOshH03qxLfYfWjuTQrmD3XPyD3YQ/edit?usp=sharing)
 * [02-HTML y CSS](https://docs.google.com/presentation/d/1vlyV5dXL-WctX4gWcbEdf8mg1lBwRJbl1xxJc8-aWH8/edit?usp=sharing)
 * [03 - Organizacion de Archivos](https://docs.google.com/presentation/d/1X3yeNjrqHqN0auZSJHKVJrQj0wXX_X2wxXHq7DUI5ek/edit?usp=sharing)
+* [04 - CSS #2](https://docs.google.com/presentation/d/1C8wdcpsUuQ_vOg6oGE2d7GuRWgX0LD4U85CMSybFQRs/edit?usp=sharing)
 
 
 

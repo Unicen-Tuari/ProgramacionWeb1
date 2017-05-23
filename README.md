@@ -5,9 +5,10 @@ En este repositorio vas a encontrar toda la información de la cátedra de Progr
 <!-- Este Miercoles 29/05 hay clases de 18 a 21hs. -->
 
 ###Fechas importante (2017)
-* Parcial: A confirmar - 18 hs
-* Recuperatorio: A confirmar - 18 hs
+* Parcial: Jueves 08-06 - 18 hs
+* Recuperatorio: Viernes 23-06 - 15 hs
 * Prefinal: Junto a Final - 18 hs
+* LTs: 7-Jun
 
 ## Horarios
 <!-- Miercoles 15 a 21 hs -->
@@ -32,12 +33,21 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
 * [Introducción Programación Web](https://docs.google.com/presentation/d/1NtyZeoq4aq1qqtMNqqldJMj9Zd9sBRSnR8T4clTWhn0/edit?usp=sharing)
 * [Desarrollo de Software](https://docs.google.com/presentation/d/1gHlzQp3ESZpokcJ8Ttc7xMY25lOtGz3Xp05EOzoWTds/edit?usp=sharing)
 * [GIT](https://docs.google.com/presentation/d/1TlpINT7ldK7S1-6NGD_jWgz9Cyk14-Y7pZ8fMhmeqN8/edit?usp=sharing)
+#### Front  End
 * [01-HTML y CSS](https://docs.google.com/presentation/d/173c2yqqcDUV6ohGOshH03qxLfYfWjuTQrmD3XPyD3YQ/edit?usp=sharing)
 * [02-HTML y CSS](https://docs.google.com/presentation/d/1vlyV5dXL-WctX4gWcbEdf8mg1lBwRJbl1xxJc8-aWH8/edit?usp=sharing)
 * [03 - Organizacion de Archivos](https://docs.google.com/presentation/d/1X3yeNjrqHqN0auZSJHKVJrQj0wXX_X2wxXHq7DUI5ek/edit?usp=sharing)
 * [04 - CSS #2](https://docs.google.com/presentation/d/1C8wdcpsUuQ_vOg6oGE2d7GuRWgX0LD4U85CMSybFQRs/edit?usp=sharing)
-
-
+* [05 - Box Model](https://docs.google.com/presentation/d/1IizxGD1OP03tSWpg6o4qOjHLBi7XYn0Pw0XeJa6Zkcs/edit?usp=sharing)
+* [06 - Javascript](https://docs.google.com/presentation/d/1xHIEI3E3fmmPSJQWk73QLGS-JrZ1NFcvIh_70dNihS0/edit?usp=sharing)
+#### Back End
+* [01 - PHP](https://docs.google.com/presentation/d/1Jx0KjcOnYcS69eEmXMQK2TroLywExj_7kUA_qlSsqEE/edit?usp=sharing)
+* [02 - (Extra) Archivos vs SQL](https://docs.google.com/presentation/d/1UlAJsf32y6ksviru38D3-PnAB1B0yBAUBnGVHCpVhVg/edit?usp=sharing)
+* [02 - SQL PDO](https://docs.google.com/presentation/d/1Pt5QF_09Kpfhf0QqU_YWtn9iUhnkh8gVrfZCpZnqES8/edit?usp=sharing)
+* [03 - Smarty](https://docs.google.com/presentation/d/1E0UPI0LotFb2YjKylRl3kz9eoUYX6w_JvrAsMMQtJmc/edit?usp=sharing)
+* [04 - (Extra) Programación Orientada a Objetos](https://docs.google.com/presentation/d/1Hcx84wTmgFoTIaLs2CMub6EmAnk3d8G5F8n-UQJ_hdM/edit?usp=sharing)
+* [05 - MVC](https://docs.google.com/presentation/d/1IYH9V72G1Sh-IonFN7miFLNqdCwdyWKbOd5VSbwNb2s/edit?usp=sharing)
+* [06 - Ruteo](https://docs.google.com/presentation/d/1B5S6fvvDFMpQBwcTmFHY37HxPCf4-FQEPSghb2p9Z60/edit?usp=sharing)
 
 ## Slides 2016
 * [Introducción Programación Web](https://docs.google.com/presentation/d/1BCDlSrtvqB38A6m7EFNnn625h6o1jylXTj7moC_maDw/edit?usp=sharing)

@@ -1,10 +1,10 @@
 # Programación Web 1 y 2
 En este repositorio vas a encontrar toda la información de la cátedra de Programacion Web 1 y 2 (TUPAR) Universidad Nacional del Centro de la Provincia de Buenos Aires.
 
-##Anuncios
+## Anuncios
 <!-- Este Miercoles 29/05 hay clases de 18 a 21hs. -->
 
-###Fechas importante (2017)
+### Fechas importante (2017)
 * Parcial: Jueves 08-06 - 18 hs
 * Recuperatorio: Viernes 23-06 - 15 hs
 * Prefinal: Junto a Final - 18 hs
@@ -28,6 +28,9 @@ La materia cuenta con 3 instancias de evaluación obligatorias:
 
 ### Promoción
 Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
+
+### Cronograma
+* [Cronograma 2017](https://docs.google.com/spreadsheets/d/1LkOlzNFX04inSvA0OqCm8tC7wt6Vimbgw0UWFaKClhk/edit?usp=sharing)
 
 ## Slides 2017 (ACTUALES)
 * [Introducción Programación Web](https://docs.google.com/presentation/d/1NtyZeoq4aq1qqtMNqqldJMj9Zd9sBRSnR8T4clTWhn0/edit?usp=sharing)
@@ -62,10 +65,10 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
 * [Box Model](https://docs.google.com/presentation/d/1U-s-IJaHRsxQeAu2FD29kee0pFWq9Q-P_pT3haxljV0/edit?usp=sharing)
 * [Javascript](https://docs.google.com/presentation/d/1BleyQpGHEYhD7LbARLmMsG_D_6rjgNkxy_qO3Opgi80/edit?usp=sharing)
 * [HTML 5 - Web Semántica](https://docs.google.com/presentation/d/1r42h_6F8mOnNFiKz1RHAes-PuS6SYZrqx0TJxVRKp9c/edit?usp=sharing)
-* [Bootstrap] (https://docs.google.com/presentation/d/1kLhdRgDqZ1lX8MGvg-wX_SCnX4LH7MR6HsHwYpCeJ40/)
-* [JS POO - JQuery] (https://docs.google.com/presentation/d/1RUy_WI5xdT4ihhE4tiwFnpwSFmufEx9WkJA0rsHDXYI/edit?usp=sharing)
-* [AJAX] (https://docs.google.com/presentation/d/1dinzmpzOd-rrOaZtWwDvAxFTujiJESdtYa9GYSGaFq0/edit?usp=sharing)
-* [Heroku] (https://docs.google.com/presentation/d/1jJ9gRL8vezXE0jI2XJd8k3VzjyeYAVEzVBudsd57rAw/edit?usp=sharing)
+* [Bootstrap](https://docs.google.com/presentation/d/1kLhdRgDqZ1lX8MGvg-wX_SCnX4LH7MR6HsHwYpCeJ40/)
+* [JS POO - JQuery](https://docs.google.com/presentation/d/1RUy_WI5xdT4ihhE4tiwFnpwSFmufEx9WkJA0rsHDXYI/edit?usp=sharing)
+* [AJAX](https://docs.google.com/presentation/d/1dinzmpzOd-rrOaZtWwDvAxFTujiJESdtYa9GYSGaFq0/edit?usp=sharing)
+* [Heroku](https://docs.google.com/presentation/d/1jJ9gRL8vezXE0jI2XJd8k3VzjyeYAVEzVBudsd57rAw/edit?usp=sharing)
 
 ### Programación Web 2
 * [Introducción Programación Web 2 2016](https://drive.google.com/open?id=1UeoH4hC0_f2Nh2RoUYQ-fP-38y8Mj8vgF3Ab4zW1WA4)

@@ -43,6 +43,7 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
 * [04 - CSS #2](https://docs.google.com/presentation/d/1C8wdcpsUuQ_vOg6oGE2d7GuRWgX0LD4U85CMSybFQRs/edit?usp=sharing)
 * [05 - Box Model](https://docs.google.com/presentation/d/1IizxGD1OP03tSWpg6o4qOjHLBi7XYn0Pw0XeJa6Zkcs/edit?usp=sharing)
 * [06 - Javascript](https://docs.google.com/presentation/d/1xHIEI3E3fmmPSJQWk73QLGS-JrZ1NFcvIh_70dNihS0/edit?usp=sharing)
+* [07 - Bootstrap](https://docs.google.com/presentation/d/1jrPcnr4QUo_6dY5CwQY1pn1KjxKPSmscEXikvkFjF6k/edit?usp=sharing)
 #### Back End
 * [01 - PHP](https://docs.google.com/presentation/d/1Jx0KjcOnYcS69eEmXMQK2TroLywExj_7kUA_qlSsqEE/edit?usp=sharing)
 * [02 - (Extra) Archivos vs SQL](https://docs.google.com/presentation/d/1UlAJsf32y6ksviru38D3-PnAB1B0yBAUBnGVHCpVhVg/edit?usp=sharing)
@@ -51,6 +52,7 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
 * [04 - (Extra) Programación Orientada a Objetos](https://docs.google.com/presentation/d/1Hcx84wTmgFoTIaLs2CMub6EmAnk3d8G5F8n-UQJ_hdM/edit?usp=sharing)
 * [05 - MVC](https://docs.google.com/presentation/d/1IYH9V72G1Sh-IonFN7miFLNqdCwdyWKbOd5VSbwNb2s/edit?usp=sharing)
 * [06 - Ruteo](https://docs.google.com/presentation/d/1B5S6fvvDFMpQBwcTmFHY37HxPCf4-FQEPSghb2p9Z60/edit?usp=sharing)
+* [07 - Session](https://docs.google.com/presentation/d/14NEarz7jlAFNPlXmQuiMvm6TIBbxR1kGLgC0hyN7-9k/edit?usp=sharing)
 
 ## Slides 2016
 * [Introducción Programación Web](https://docs.google.com/presentation/d/1BCDlSrtvqB38A6m7EFNnn625h6o1jylXTj7moC_maDw/edit?usp=sharing)

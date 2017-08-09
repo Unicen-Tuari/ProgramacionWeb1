@@ -5,14 +5,14 @@ En este repositorio vas a encontrar toda la información de la cátedra de Progr
 <!-- Este Miercoles 29/05 hay clases de 18 a 21hs. -->
 
 ### Fechas importante (2017)
-* Parcial: Jueves 08-06 - 18 hs
-* Recuperatorio: Viernes 23-06 - 15 hs
-* Prefinal: Junto a Final - 18 hs
-* LTs: 7-Jun
+* Parcial: <!-- Jueves 08-06 - 18 hs -->
+* Recuperatorio: <!-- Viernes 23-06 - 15 hs  -->
+* Prefinal: <!-- Junto a Final - 18 hs  -->
+* LTs: <!-- 7-Jun  -->
 
 ## Horarios
 <!-- Miercoles 15 a 21 hs -->
-* Martes 12 a 15 hs
+* Martes 18 a 21 hs
 * Miércoles 18 a 21 hs
 
 ## Docentes
@@ -30,9 +30,14 @@ La materia cuenta con 3 instancias de evaluación obligatorias:
 Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
 
 ### Cronograma
-* [Cronograma 2017](https://docs.google.com/spreadsheets/d/1LkOlzNFX04inSvA0OqCm8tC7wt6Vimbgw0UWFaKClhk/edit?usp=sharing)
+* [Cronograma 2017](https://drive.google.com/open?id=16eQoXhH1CyAt_si_kCTq-5h9fJAHG3IjZDjELS-yPe0)
 
-## Slides 2017 (ACTUALES)
+## Slides Programacion Web II 2017 (ACTUALES)
+* [Introducción Programación Web II](https://drive.google.com/open?id=1wmaU3IgLjkdChM_s5_5-V1i0zRyKkc3F3-m46yZl2vA)
+* [01 - Virtualización](https://drive.google.com/open?id=1KGTZ0FI8Mc3GNs4xiiT7N-dAL_LioVYt8SeRgCIn27A)
+
+
+## Slides Programacion Web I 2017 
 * [Introducción Programación Web](https://docs.google.com/presentation/d/1NtyZeoq4aq1qqtMNqqldJMj9Zd9sBRSnR8T4clTWhn0/edit?usp=sharing)
 * [Desarrollo de Software](https://docs.google.com/presentation/d/1gHlzQp3ESZpokcJ8Ttc7xMY25lOtGz3Xp05EOzoWTds/edit?usp=sharing)
 * [GIT](https://docs.google.com/presentation/d/1TlpINT7ldK7S1-6NGD_jWgz9Cyk14-Y7pZ8fMhmeqN8/edit?usp=sharing)

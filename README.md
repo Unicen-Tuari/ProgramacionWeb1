@@ -35,6 +35,8 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
 ## Slides Programacion Web II 2017 (ACTUALES)
 * [Introducción Programación Web II](https://drive.google.com/open?id=1wmaU3IgLjkdChM_s5_5-V1i0zRyKkc3F3-m46yZl2vA)
 * [01 - Virtualización](https://drive.google.com/open?id=1KGTZ0FI8Mc3GNs4xiiT7N-dAL_LioVYt8SeRgCIn27A)
+* [02 - Docker](https://drive.google.com/open?id=1o5u15EBiM2qUEHEieZB0yD92Qpje27J5VEEClkFD8qw)
+* [03 - Manejo de Dependencias](https://drive.google.com/open?id=1i9wQ7O3d9lfRoOeIEqpzga-SFlHkChZQErtKrVVwx34)
 
 
 ## Slides Programacion Web I 2017 

@@ -41,6 +41,8 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
 * [02 - Docker](https://drive.google.com/open?id=1o5u15EBiM2qUEHEieZB0yD92Qpje27J5VEEClkFD8qw)
 * [03 - Manejo de Dependencias](https://drive.google.com/open?id=1i9wQ7O3d9lfRoOeIEqpzga-SFlHkChZQErtKrVVwx34)
 * [04 - Laravel](https://docs.google.com/presentation/d/1ADT1NZ6l4HBOKDx_5_8yx0zJAOFs8nYHwVHeM0MCvvk)
+* [05 - MVC](https://docs.google.com/presentation/d/1jzN6x1tN9DvdmBIUWzjgkBy7Cv4zHCnjYS-UDqjg6Fo/edit?usp=sharing)
+* [06 - ORM Eloquent](https://docs.google.com/presentation/d/1RNDEKHfl_CZcoG8z5twPhl-94w8_LGjZ-O1DacWxuIk/edit?usp=sharing)
 
 
 ## Slides Programacion Web I 2017 

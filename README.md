@@ -43,7 +43,8 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
 * [04 - Laravel](https://docs.google.com/presentation/d/1ADT1NZ6l4HBOKDx_5_8yx0zJAOFs8nYHwVHeM0MCvvk)
 * [05 - ORM Eloquent I](https://docs.google.com/presentation/d/1RNDEKHfl_CZcoG8z5twPhl-94w8_LGjZ-O1DacWxuIk/edit?usp=sharing)
 * [06 - MVC](https://docs.google.com/presentation/d/1jzN6x1tN9DvdmBIUWzjgkBy7Cv4zHCnjYS-UDqjg6Fo/edit?usp=sharing)
-* [07 - ORM Eloquent II](https://docs.google.com/presentation/d/1_z7LW3BDnEZtZiPBTHw0plJVKrfRcgPA1uY94SLy4n4/edit?usp=sharing)
+* [06-II - ORM Eloquent II](https://docs.google.com/presentation/d/1_z7LW3BDnEZtZiPBTHw0plJVKrfRcgPA1uY94SLy4n4/edit?usp=sharing)
+* [07 - Autenticacion y Autorización](https://docs.google.com/presentation/d/1eocsOiuT7d2CLJsgi4VUphrZTNCXWuH_c-mwxmkpYy0/edit?usp=sharing)
 
 
 ## Slides Programacion Web I 2017 

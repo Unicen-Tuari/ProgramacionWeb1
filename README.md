@@ -45,6 +45,7 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
 * [06 - MVC](https://docs.google.com/presentation/d/1jzN6x1tN9DvdmBIUWzjgkBy7Cv4zHCnjYS-UDqjg6Fo/edit?usp=sharing)
 * [06-II - ORM Eloquent II](https://docs.google.com/presentation/d/1_z7LW3BDnEZtZiPBTHw0plJVKrfRcgPA1uY94SLy4n4/edit?usp=sharing)
 * [07 - Autenticacion y Autorización](https://docs.google.com/presentation/d/1eocsOiuT7d2CLJsgi4VUphrZTNCXWuH_c-mwxmkpYy0/edit?usp=sharing)
+* [08 - Upload de archivos](https://docs.google.com/presentation/d/1YR2yQZ2KBAyL9Q9xAs6kXmuNKHNd3HvD_n283uYQXdI/edit?usp=sharing)
 
 
 ## Slides Programacion Web I 2017 

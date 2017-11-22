@@ -49,7 +49,8 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
 * [09 - TDD + Testing en Laravel](https://docs.google.com/presentation/d/1j3eueKddcUPHqcMa-d1OJvcPd0xNtvyktdY4OeeoYdo/edit?usp=sharing)
 * [10 - Testing Automation](https://drive.google.com/open?id=1_A4FxlWG4gRiIv-I5yzww0aY27-XwwznTzkIEwATlF0)
 * [11 - Gitlab - Instalación y Uso](https://drive.google.com/open?id=13fSHqgfR-TjjzjIxiF9fThym2G_A9mNIlL3RQgNXHNU)
-* [12 - Continuous Integration and Deployment](https://drive.google.com/open?id=1pBTss3JrkOlw0pCtc55-d9knTHW848C_o9zHFQlcGRU)
+* [12 - Continuous Integration](https://drive.google.com/open?id=1pBTss3JrkOlw0pCtc55-d9knTHW848C_o9zHFQlcGRU)
+* [13 - Continuous Deployment](https://drive.google.com/open?id=1r8mBFEpR5idM1NJCDsUExOA4nbI-NS50o9lJ2BUpW6g)
 
 ## Slides Programacion Web I 2017 
 * [Introducción Programación Web](https://docs.google.com/presentation/d/1NtyZeoq4aq1qqtMNqqldJMj9Zd9sBRSnR8T4clTWhn0/edit?usp=sharing)

@@ -17,6 +17,7 @@ En este repositorio vas a encontrar toda la información de la cátedra de Progr
 
 ## Docentes
 * Ignacio Jonas (ijonas@exa.unicen.edu.ar)
+* Javier Romero (romeroluisjavier@gmail.com)
 * Javier Dottori (jdottori@exa.unicen.edu.ar)
 <!-- * Alejandro Perez (ajperez@exa.unicen.edu.ar) -->
 
@@ -30,12 +31,30 @@ La materia cuenta con 3 instancias de evaluación obligatorias:
 Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
 
 ### Cronograma
-* [Cronograma 2017](https://drive.google.com/open?id=16eQoXhH1CyAt_si_kCTq-5h9fJAHG3IjZDjELS-yPe0)
+* [Cronograma 2018](https://docs.google.com/spreadsheets/d/1ZviNtp6AzbGxzBZnbIZeMvbUeQ7tKc9C1-GQaT2byyw/edit#gid=1599550174)
 
 ### Programa
 * [Programa de la asignatura](https://docs.google.com/document/d/1030ceIjhUAepyUCnFzN4UsulLBfHWzth6tTaETYClQs/edit)
 
-## Slides Programacion Web II 2017 (ACTUALES)
+## TP Especial 2018
+* [Consigna](https://docs.google.com/document/d/1sMe6Ggt04wwUxu1qLYBYw7oRvFVEH0nUP1VXBVUDrJs/edit#)
+* [Planilla de Requerimientos](https://docs.google.com/spreadsheets/d/1of85_qe3xbDwydPyXj_9H2j4mGIBwH3W64U0dLXUqII/edit#gid=0)
+
+## Slides Programación Web I 2018 (ACTUALES)
+* [Presentación de la Materia](https://docs.google.com/presentation/d/1-_W6OyyXmzfOJuNVNeMPYK7--52ikIa0vq8gSq8lLHY/edit)
+#### Front  End
+* [01 - GIT](https://docs.google.com/presentation/d/1QlZzNpzZPkSFnWubZQPJ0QnN00RE033L1gjriDYgVmg/edit)
+* [02 - Introducción HTML y CSS](https://docs.google.com/presentation/d/1pZjhsFZo0QUWlQW84PstRSqDkHTFQfIIVEZsNG3IZx4/edit)
+* [03 - Scrum](https://docs.google.com/presentation/d/168CQeEuQpwH6mOQbgjdoKpSmEs7Gcfv_PedR-f-r8A0/edit)
+* [03.1 - Scrum TUPAR](https://docs.google.com/presentation/d/1yQ-uWIBCTtJzVzXtR6iXsfT7lzhOnHlJXSwG5j424YE/edit?usp=drive_web&ouid=116455361529934824970)
+* [04 - Box Model](https://docs.google.com/presentation/d/1Zg93Rr8b8cJnl7K1j8ksgt-xFC4HdB7utFW04jQOpmg/edit#slide=id.g34f4815cb9_0_429)
+* [05 - HTML Tablas y Forms](https://docs.google.com/presentation/d/1NqLyuL07KZQ1GW4NsqAO3X9VG0CuAcpApepu_L0B5R4/edit)
+* [06 - CSS #2](https://docs.google.com/presentation/d/1sbhFdQOaJ23i0N8loAabgajIt2LzyTT-7cW9aI_4lWs/edit#slide=id.p4)
+* [07 - JS](https://docs.google.com/presentation/d/1IhKwbt0Kpaew7WW8Ah72enYRucX28B7Xff060_A7dHM/edit)
+
+#### Back End
+
+## Slides Programacion Web II 2017
 * [Introducción Programación Web II](https://drive.google.com/open?id=1wmaU3IgLjkdChM_s5_5-V1i0zRyKkc3F3-m46yZl2vA)
 * [01 - Virtualización](https://drive.google.com/open?id=1KGTZ0FI8Mc3GNs4xiiT7N-dAL_LioVYt8SeRgCIn27A)
 * [02 - Docker](https://drive.google.com/open?id=1o5u15EBiM2qUEHEieZB0yD92Qpje27J5VEEClkFD8qw)

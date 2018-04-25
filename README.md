@@ -33,6 +33,9 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
 ### Cronograma
 * [Cronograma 2018](https://docs.google.com/spreadsheets/d/1ZviNtp6AzbGxzBZnbIZeMvbUeQ7tKc9C1-GQaT2byyw/edit#gid=1599550174)
 
+### Youtube
+Tratamos de subir las clases al canal de Youtube de la materia.[aqui](https://www.youtube.com/channel/UCA7J-66j1nE7n0m6JXadN2A?view_as=subscriber)
+
 ### Programa
 * [Programa de la asignatura](https://docs.google.com/document/d/1030ceIjhUAepyUCnFzN4UsulLBfHWzth6tTaETYClQs/edit)
 

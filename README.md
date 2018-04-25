@@ -4,11 +4,11 @@ En este repositorio vas a encontrar toda la información de la cátedra de Progr
 ## Anuncios
 <!-- Este Miercoles 29/05 hay clases de 18 a 21hs. -->
 
-### Fechas importante (2017)
-* Parcial: <!-- Jueves 08-06 - 18 hs -->
-* Recuperatorio: <!-- Viernes 23-06 - 15 hs  -->
-* Prefinal: <!-- Junto a Final - 18 hs  -->
-* LTs: <!-- 7-Jun  -->
+### Fechas importante (2018)
+* Parcial: Jueves 13-Jun - 18 hs
+* Recuperatorio: Jueves 27-Jun - 18 hs
+* Prefinal: Junto a Final - 18 hs
+* LTs: 19-Jun
 
 ## Horarios
 <!-- Miercoles 15 a 21 hs -->

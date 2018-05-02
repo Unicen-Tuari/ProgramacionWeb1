@@ -54,7 +54,7 @@ Tratamos de subir las clases al canal de Youtube de la materia.[aqui](https://ww
 * [05 - HTML Tablas y Forms](https://docs.google.com/presentation/d/1NqLyuL07KZQ1GW4NsqAO3X9VG0CuAcpApepu_L0B5R4/edit)
 * [06 - CSS #2](https://docs.google.com/presentation/d/1sbhFdQOaJ23i0N8loAabgajIt2LzyTT-7cW9aI_4lWs/edit#slide=id.p4)
 * [07 - JS](https://docs.google.com/presentation/d/1IhKwbt0Kpaew7WW8Ah72enYRucX28B7Xff060_A7dHM/edit)
-
+* [08 - JS 2](https://docs.google.com/presentation/d/1lFOr0_2EGQ-rtFPAzGM7dZkmD1jw4ncGo3t_2aGPkco/edit?usp=sharing)
 #### Back End
 
 ## Slides Programacion Web II 2017

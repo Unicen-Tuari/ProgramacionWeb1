@@ -11,7 +11,6 @@ En este repositorio vas a encontrar toda la información de la cátedra de Progr
 * LTs: 19-Jun
 
 ## Horarios
-<!-- Miercoles 15 a 21 hs -->
 * Martes 18 a 21 hs
 * Miércoles 18 a 21 hs
 
@@ -40,7 +39,8 @@ Tratamos de subir las clases al canal de Youtube de la materia.[aqui](https://ww
 * [Programa de la asignatura](https://docs.google.com/document/d/1030ceIjhUAepyUCnFzN4UsulLBfHWzth6tTaETYClQs/edit)
 
 ## TP Especial 2018
-* [Consigna](https://docs.google.com/document/d/1sMe6Ggt04wwUxu1qLYBYw7oRvFVEH0nUP1VXBVUDrJs/edit#)
+* [Consigna - Parte 1](https://docs.google.com/document/d/1sMe6Ggt04wwUxu1qLYBYw7oRvFVEH0nUP1VXBVUDrJs/edit#)
+* [Consigna - Parte 2](https://docs.google.com/document/d/1-gjbHwsD4zzEhCDaTDDBz-Cq6rHkOZspIfQThbAKUts/edit#heading=h.vyfx596pjhae)
 * [Planilla de Requerimientos](https://docs.google.com/spreadsheets/d/1of85_qe3xbDwydPyXj_9H2j4mGIBwH3W64U0dLXUqII/edit#gid=0)
 
 ## Slides Programación Web I 2018 (ACTUALES)
@@ -57,6 +57,12 @@ Tratamos de subir las clases al canal de Youtube de la materia.[aqui](https://ww
 * [08 - JS 2](https://docs.google.com/presentation/d/1lFOr0_2EGQ-rtFPAzGM7dZkmD1jw4ncGo3t_2aGPkco/edit?usp=sharing)
 * [09 - Bootstrap](https://docs.google.com/presentation/d/1p4ZEjPqKi1iorDj2VrtuYjeRjeKQEnQzW4bI5HMwnwk/edit?usp=sharing)
 #### Back End
+* [01 - PHP](https://docs.google.com/presentation/d/1ALs1d6zXMJ_ZKDUdug90yCIhb0CJVphZCaleLp4qMeg/edit?usp=drive_web&ouid=116455361529934824970)
+* [02 - Routeo & Pretty URL](https://docs.google.com/presentation/d/1H1f1CifiwpUTvJzV0wUbTpDzbPsL6TE1CENMmVbcjgg/edit)
+* [03 - Intro a PDO](https://docs.google.com/presentation/d/1VHRUPUchEiBBLss2C_LM5wI0sxUkNbDfC-nv4QUye_A/edit)
+* [04 - Template Engine](https://docs.google.com/presentation/d/1RD-Vgtb9WE7DvmTFNlqnZt7FFGDNygRja4S8gN6Lr7g/edit)
+* [05 - MVC](https://docs.google.com/presentation/d/1fVhg68PATwWnoNRcjj4IOwe5i5yLuqvXRs4VFceAqoE/edit)
+* [05 - Sesion](https://docs.google.com/presentation/d/19G3DvWmWLl_RdCPiid6zoAXXHsXhgrDhDLxzBr42MWs/edit)
 
 ## Slides Programacion Web II 2017
 * [Introducción Programación Web II](https://drive.google.com/open?id=1wmaU3IgLjkdChM_s5_5-V1i0zRyKkc3F3-m46yZl2vA)

@@ -43,7 +43,14 @@ Tratamos de subir las clases al canal de Youtube de la materia.[aqui](https://ww
 * [Consigna - Parte 2](https://docs.google.com/document/d/1-gjbHwsD4zzEhCDaTDDBz-Cq6rHkOZspIfQThbAKUts/edit#heading=h.vyfx596pjhae)
 * [Planilla de Requerimientos](https://docs.google.com/spreadsheets/d/1of85_qe3xbDwydPyXj_9H2j4mGIBwH3W64U0dLXUqII/edit#gid=0)
 
-## Slides Programación Web I 2018 (ACTUALES)
+
+## Slides Programación Web II 2018 (ACTUALES)
+#### Laravel
+* [Intro Laravel](https://drive.google.com/open?id=1iYkHkOGyVtrTGA1KsZePFcZzEopLOJCCDXitweeVdBg)
+* [Manejo de Dependencias](https://drive.google.com/open?id=1mcfBLjcdeY1m1XKd_UK2cJgiZOKTaMJqQRtFCYqTdVU)
+* [Testing Automático (Unit + Integration)](https://drive.google.com/open?id=1sXmQcZh4WARgVzOhd3ZY2HyQBWkefaLlyBW9F9jgJzk)
+
+## Slides Programación Web I 2018
 * [Presentación de la Materia](https://docs.google.com/presentation/d/1-_W6OyyXmzfOJuNVNeMPYK7--52ikIa0vq8gSq8lLHY/edit)
 #### Front  End
 * [01 - GIT](https://docs.google.com/presentation/d/1QlZzNpzZPkSFnWubZQPJ0QnN00RE033L1gjriDYgVmg/edit)

@@ -49,6 +49,7 @@ Tratamos de subir las clases al canal de Youtube de la materia.[aqui](https://ww
 * [Intro Laravel](https://drive.google.com/open?id=1iYkHkOGyVtrTGA1KsZePFcZzEopLOJCCDXitweeVdBg)
 * [Manejo de Dependencias](https://drive.google.com/open?id=1mcfBLjcdeY1m1XKd_UK2cJgiZOKTaMJqQRtFCYqTdVU)
 * [Testing Automático (Unit + Integration)](https://drive.google.com/open?id=1sXmQcZh4WARgVzOhd3ZY2HyQBWkefaLlyBW9F9jgJzk)
+* [Testing Automático (Browser Tests - Dusk - Selenium)](https://docs.google.com/presentation/d/1825UrsjA1aqjSyYOomn_l4r4aeR4aSWEHDUxeMkhuy0/edit?usp=sharing)
 
 ## Slides Programación Web I 2018
 * [Presentación de la Materia](https://docs.google.com/presentation/d/1-_W6OyyXmzfOJuNVNeMPYK7--52ikIa0vq8gSq8lLHY/edit)

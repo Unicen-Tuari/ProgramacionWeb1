@@ -5,10 +5,10 @@ En este repositorio vas a encontrar toda la información de la cátedra de Progr
 <!-- Este Miercoles 29/05 hay clases de 18 a 21hs. -->
 
 ### Fechas importante (2018)
-* Parcial: Jueves 13-Jun - 18 hs
-* Recuperatorio: Jueves 27-Jun - 18 hs
+* Parcial: Miercoles 31-Oct - 18 hs
+* Recuperatorio: Martes 20-Nov - 18 hs
 * Prefinal: Junto a Final - 18 hs
-* LTs: 19-Jun
+* LTs: TBD
 
 ## Horarios
 * Martes 18 a 21 hs
@@ -16,9 +16,9 @@ En este repositorio vas a encontrar toda la información de la cátedra de Progr
 
 ## Docentes
 * Ignacio Jonas (ijonas@exa.unicen.edu.ar)
-* Javier Romero (romeroluisjavier@gmail.com)
+<!--* Javier Romero (romeroluisjavier@gmail.com)-->
 * Javier Dottori (jdottori@exa.unicen.edu.ar)
-<!-- * Alejandro Perez (ajperez@exa.unicen.edu.ar) -->
+* Alejandro Perez (ajperez@exa.unicen.edu.ar)
 
 ## Aprobación de la materia
 La materia cuenta con 3 instancias de evaluación obligatorias:

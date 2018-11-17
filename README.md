@@ -52,6 +52,7 @@ Tratamos de subir las clases al canal de Youtube de la materia.[aqui](https://ww
 * [Testing Automático (Browser Tests - Dusk - Selenium)](https://docs.google.com/presentation/d/1825UrsjA1aqjSyYOomn_l4r4aeR4aSWEHDUxeMkhuy0/edit?usp=sharing)
 * [Migraciones, Seeders y ORM](https://drive.google.com/open?id=1tOW_icYB2cYKZVcwyYWlZrKXDlSHlJ7qchOrushtBhY)
 * [Autenticación y Autorización](https://docs.google.com/presentation/d/12DG8KKG0WzTQa2dAHFwnzY_HO-ofhlOJsV8_fumaqik/edit?usp=sharing)
+* [Upload de Archivos al Server con Laravel](https://drive.google.com/open?id=1Gb4KCsvCm12afotdm6Z92ROf99f30VxuCssnEWQP2S8)
 
 ## Slides Programación Web I 2018
 * [Presentación de la Materia](https://docs.google.com/presentation/d/1-_W6OyyXmzfOJuNVNeMPYK7--52ikIa0vq8gSq8lLHY/edit)

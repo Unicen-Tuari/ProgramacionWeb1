@@ -16,9 +16,9 @@ En este repositorio vas a encontrar toda la información de la cátedra de Progr
 
 ## Docentes
 * Ignacio Jonas (ijonas@exa.unicen.edu.ar)
-<!--* Javier Romero (romeroluisjavier@gmail.com)-->
+* Javier Romero (romeroluisjavier@gmail.com)
 * Javier Dottori (jdottori@exa.unicen.edu.ar)
-* Alejandro Perez (ajperez@exa.unicen.edu.ar)
+<!--* Alejandro Perez (ajperez@exa.unicen.edu.ar)-->
 
 ## Aprobación de la materia
 La materia cuenta con 3 instancias de evaluación obligatorias:

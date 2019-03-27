@@ -39,6 +39,7 @@ Tratamos de subir las clases al canal de Youtube de la materia.[aqui](https://ww
 * [Programa de la asignatura](https://docs.google.com/document/d/1030ceIjhUAepyUCnFzN4UsulLBfHWzth6tTaETYClQs/edit)
 
 ## TP Especial 2019
+[Planilla de Requerimientos](https://docs.google.com/spreadsheets/d/1dD-7zXM29OuwDx3-KdRrUfXHIxECFl9DLGvI8S5UanI/edit#gid=0)
 <!--* [Consigna - Parte 1](https://docs.google.com/document/d/1sMe6Ggt04wwUxu1qLYBYw7oRvFVEH0nUP1VXBVUDrJs/edit#)
 * [Consigna - Parte 2](https://docs.google.com/document/d/1-gjbHwsD4zzEhCDaTDDBz-Cq6rHkOZspIfQThbAKUts/edit#heading=h.vyfx596pjhae)
 * [Planilla de Requerimientos](https://docs.google.com/spreadsheets/d/1of85_qe3xbDwydPyXj_9H2j4mGIBwH3W64U0dLXUqII/edit#gid=0)

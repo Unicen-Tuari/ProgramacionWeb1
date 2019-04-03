@@ -45,6 +45,17 @@ Tratamos de subir las clases al canal de Youtube de la materia.[aqui](https://ww
 * [Planilla de Requerimientos](https://docs.google.com/spreadsheets/d/1of85_qe3xbDwydPyXj_9H2j4mGIBwH3W64U0dLXUqII/edit#gid=0)
 -->
 
+## Slides Programación Web I 2019
+* [Presentación de la Materia](https://docs.google.com/presentation/d/1-_W6OyyXmzfOJuNVNeMPYK7--52ikIa0vq8gSq8lLHY/edit)
+#### Front  End
+* [01 - GIT](https://docs.google.com/presentation/d/1QlZzNpzZPkSFnWubZQPJ0QnN00RE033L1gjriDYgVmg/edit)
+* [02 - Introducción HTML y CSS](https://docs.google.com/presentation/d/1pZjhsFZo0QUWlQW84PstRSqDkHTFQfIIVEZsNG3IZx4/edit)
+* [03 - Scrum](https://docs.google.com/presentation/d/168CQeEuQpwH6mOQbgjdoKpSmEs7Gcfv_PedR-f-r8A0/edit)
+* [03.1 - Scrum TUPAR](https://docs.google.com/presentation/d/1yQ-uWIBCTtJzVzXtR6iXsfT7lzhOnHlJXSwG5j424YE/edit?usp=drive_web&ouid=116455361529934824970)
+* [04 - Box Model](https://docs.google.com/presentation/d/1Zg93Rr8b8cJnl7K1j8ksgt-xFC4HdB7utFW04jQOpmg/edit#slide=id.g34f4815cb9_0_429)
+* [05 - HTML Tablas y Forms](https://docs.google.com/presentation/d/1O-qVKPXgeHcig8UvMuA-6kk4MSuKv4hipuwSa_evly0/edit?usp=sharing)
+
+
 ## Slides Programación Web II 2018 (ACTUALES)
 #### Laravel
 * [Intro Laravel](https://drive.google.com/open?id=1iYkHkOGyVtrTGA1KsZePFcZzEopLOJCCDXitweeVdBg)

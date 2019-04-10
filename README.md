@@ -54,6 +54,7 @@ Tratamos de subir las clases al canal de Youtube de la materia.[aqui](https://ww
 * [03.1 - Scrum TUPAR](https://docs.google.com/presentation/d/1yQ-uWIBCTtJzVzXtR6iXsfT7lzhOnHlJXSwG5j424YE/edit?usp=drive_web&ouid=116455361529934824970)
 * [04 - Box Model](https://docs.google.com/presentation/d/1Zg93Rr8b8cJnl7K1j8ksgt-xFC4HdB7utFW04jQOpmg/edit#slide=id.g34f4815cb9_0_429)
 * [05 - HTML Tablas y Forms](https://docs.google.com/presentation/d/1O-qVKPXgeHcig8UvMuA-6kk4MSuKv4hipuwSa_evly0/edit?usp=sharing)
+* [08 - JS Parte 2](https://docs.google.com/presentation/d/1NEHXKrySznTNoO-VTkazkQC__cFxDsjtkB4_aK9VrOg/edit?usp=sharing)
 
 
 ## Slides Programación Web II 2018 (ACTUALES)

@@ -16,9 +16,9 @@ En este repositorio vas a encontrar toda la información de la cátedra de Progr
 
 ## Docentes
 * Ignacio Jonas (ijonas@exa.unicen.edu.ar)
-* Javier Romero (romeroluisjavier@gmail.com)
+<!--* Javier Romero (romeroluisjavier@gmail.com)-->
 * Javier Dottori (jdottori@exa.unicen.edu.ar)
-<!--* Alejandro Perez (ajperez@exa.unicen.edu.ar)-->
+* Alejandro Perez (perezalejandrojulian@gmail.com)
 
 ## Aprobación de la materia
 La materia cuenta con 3 instancias de evaluación obligatorias:
@@ -30,7 +30,7 @@ La materia cuenta con 3 instancias de evaluación obligatorias:
 Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
 
 ### Cronograma
-* [Cronograma 2019](https://docs.google.com/spreadsheets/d/1ZviNtp6AzbGxzBZnbIZeMvbUeQ7tKc9C1-GQaT2byyw/edit#gid=1599550174)
+* [Cronograma 2019 (Segundo cuatrimestre)](https://docs.google.com/spreadsheets/d/12bH9SgjWaA0mNvMwSbkCVCKslFo42xBKCEzhW5bJtJE/edit?usp=sharing)
 
 ### Youtube
 Tratamos de subir las clases al canal de Youtube de la materia.[aqui](https://www.youtube.com/channel/UCA7J-66j1nE7n0m6JXadN2A?view_as=subscriber)
@@ -38,12 +38,17 @@ Tratamos de subir las clases al canal de Youtube de la materia.[aqui](https://ww
 ### Programa
 * [Programa de la asignatura](https://docs.google.com/document/d/1030ceIjhUAepyUCnFzN4UsulLBfHWzth6tTaETYClQs/edit)
 
-## TP Especial 2019
+<!--## TP Especial 2019
 [Planilla de Requerimientos](https://docs.google.com/spreadsheets/d/1dD-7zXM29OuwDx3-KdRrUfXHIxECFl9DLGvI8S5UanI/edit#gid=0)
-<!--* [Consigna - Parte 1](https://docs.google.com/document/d/1sMe6Ggt04wwUxu1qLYBYw7oRvFVEH0nUP1VXBVUDrJs/edit#)
+* [Consigna - Parte 1](https://docs.google.com/document/d/1sMe6Ggt04wwUxu1qLYBYw7oRvFVEH0nUP1VXBVUDrJs/edit#)
 * [Consigna - Parte 2](https://docs.google.com/document/d/1-gjbHwsD4zzEhCDaTDDBz-Cq6rHkOZspIfQThbAKUts/edit#heading=h.vyfx596pjhae)
 * [Planilla de Requerimientos](https://docs.google.com/spreadsheets/d/1of85_qe3xbDwydPyXj_9H2j4mGIBwH3W64U0dLXUqII/edit#gid=0)
 -->
+
+## Slides Programación Web II 2019 
+#### Laravel
+* [Intro Laravel](https://drive.google.com/open?id=1e7gKOkBh5HxmQBEkHUA0wPa2qSemd-q710GO_Xadl9Q)
+* [Manejo de Dependencias](https://drive.google.com/open?id=1Si54NAhV0acEy5Vhx8cvJCgCbwPLEBVmtMn9gJt3b54)
 
 ## Slides Programación Web I 2019
 * [Presentación de la Materia](https://docs.google.com/presentation/d/1-_W6OyyXmzfOJuNVNeMPYK7--52ikIa0vq8gSq8lLHY/edit)
@@ -56,8 +61,7 @@ Tratamos de subir las clases al canal de Youtube de la materia.[aqui](https://ww
 * [05 - HTML Tablas y Forms](https://docs.google.com/presentation/d/1O-qVKPXgeHcig8UvMuA-6kk4MSuKv4hipuwSa_evly0/edit?usp=sharing)
 * [08 - JS Parte 2](https://docs.google.com/presentation/d/1NEHXKrySznTNoO-VTkazkQC__cFxDsjtkB4_aK9VrOg/edit?usp=sharing)
 
-
-## Slides Programación Web II 2018 (ACTUALES)
+## Slides Programación Web II 2018 
 #### Laravel
 * [Intro Laravel](https://drive.google.com/open?id=1iYkHkOGyVtrTGA1KsZePFcZzEopLOJCCDXitweeVdBg)
 * [Manejo de Dependencias](https://drive.google.com/open?id=1mcfBLjcdeY1m1XKd_UK2cJgiZOKTaMJqQRtFCYqTdVU)

@@ -49,6 +49,8 @@ Tratamos de subir las clases al canal de Youtube de la materia.[aqui](https://ww
 #### Laravel
 * [Intro Laravel](https://drive.google.com/open?id=1e7gKOkBh5HxmQBEkHUA0wPa2qSemd-q710GO_Xadl9Q)
 * [Manejo de Dependencias](https://drive.google.com/open?id=1Si54NAhV0acEy5Vhx8cvJCgCbwPLEBVmtMn9gJt3b54)
+* [Testing Automation - Selenium](https://drive.google.com/open?id=1DiLUer1C1tyVv7qKkQ1SZ1VleLPgT1CAn25dOIPgDoA)
+* [Migraciones, Seeders y ORM](https://drive.google.com/open?id=1-vEGX9Gh7aOutMGWu9SixrfHgyBallTFtG7RISJWCXs)
 
 ## Slides Programación Web I 2019
 * [Presentación de la Materia](https://docs.google.com/presentation/d/1-_W6OyyXmzfOJuNVNeMPYK7--52ikIa0vq8gSq8lLHY/edit)

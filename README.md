@@ -51,6 +51,7 @@ Tratamos de subir las clases al canal de Youtube de la materia.[aqui](https://ww
 * [Manejo de Dependencias](https://drive.google.com/open?id=1Si54NAhV0acEy5Vhx8cvJCgCbwPLEBVmtMn9gJt3b54)
 * [Testing Automation - Selenium](https://drive.google.com/open?id=1DiLUer1C1tyVv7qKkQ1SZ1VleLPgT1CAn25dOIPgDoA)
 * [Migraciones, Seeders y ORM](https://drive.google.com/open?id=1-vEGX9Gh7aOutMGWu9SixrfHgyBallTFtG7RISJWCXs)
+* [Autenticación y Autorización](https://drive.google.com/open?id=1bqqB4Cw-4n6_txknmvIpDPH27aOdRqlHFlv_RjYuAaM)
 
 ## Slides Programación Web I 2019
 * [Presentación de la Materia](https://docs.google.com/presentation/d/1-_W6OyyXmzfOJuNVNeMPYK7--52ikIa0vq8gSq8lLHY/edit)

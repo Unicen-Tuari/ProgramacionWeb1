@@ -16,8 +16,8 @@ En este repositorio vas a encontrar toda la información de la cátedra de Progr
 ## Docentes
 * Ignacio Jonas (ijonas@exa.unicen.edu.ar)
 * Javier Dottori (jdottori@exa.unicen.edu.ar)
-<!--* Alejandro Perez (perezalejandrojulian@gmail.com)-->
 * Javier Romero (romeroluisjavier@gmail.com)
+<!--* Alejandro Perez (perezalejandrojulian@gmail.com)-->
 
 ## Aprobación de la materia
 La materia cuenta con 3 instancias de evaluación obligatorias:
@@ -32,7 +32,7 @@ Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
 * [Cronograma 2020 (Primer cuatrimestre)](https://docs.google.com/spreadsheets/d/1T9D_mcSLY5vTlKSHoTyYkRkZPFVvqHTO3mqCAFWmyqo/edit?usp=sharing)
 
 ### Youtube
-Tratamos de subir las clases al canal de Youtube de la materia.[aqui](https://www.youtube.com/channel/UCA7J-66j1nE7n0m6JXadN2A?view_as=subscriber)
+Videos de las clases virtuales [aqui](https://www.youtube.com/channel/UCA7J-66j1nE7n0m6JXadN2A?view_as=subscriber)
 
 
 ## Slides Programación Web I 2020

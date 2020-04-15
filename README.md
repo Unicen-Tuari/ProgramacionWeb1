@@ -17,18 +17,20 @@ En este repositorio vas a encontrar toda la información de la cátedra de Progr
 
 ## Docentes
 * Ignacio Jonas (ijonas@exa.unicen.edu.ar)
-* Javier Dottori (jdottori@exa.unicen.edu.ar)
 * Javier Romero (romeroluisjavier@gmail.com)
 <!--* Alejandro Perez (perezalejandrojulian@gmail.com)-->
+<!--* * Javier Dottori (jdottori@exa.unicen.edu.ar)-->
 
 ## Aprobación de la materia
 La materia cuenta con 3 instancias de evaluación obligatorias:
 <!--* Trabajo teorico a exponerse en la clases-->
+* Presentación de LT 
 * Trabajo practico especial
 * Parcial
 
 ### Promoción
-Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
+* Si el alumno saca nota >= 7 en Parcial y Trabajo práctico especial.
+* Presentación de LT en tiempo y forma
 
 ### Cronograma
 * [Cronograma 2020 (Primer cuatrimestre)](https://docs.google.com/spreadsheets/d/1T9D_mcSLY5vTlKSHoTyYkRkZPFVvqHTO3mqCAFWmyqo/edit?usp=sharing)

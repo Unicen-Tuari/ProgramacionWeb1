@@ -3,12 +3,15 @@ En este repositorio vas a encontrar toda la información de la cátedra de Progr
 
 ## Anuncios
 <!-- Este Miercoles 29/05 hay clases de 18 a 21hs. -->
+* Miercoles 22 de Abril 2020, entrega de Slides LTs en [esta carpeta](https://drive.google.com/drive/folders/1SZuOP49q3sTv8OLvL11Pnev85XtpJSYX?usp=sharing)
+* Miercoles 29 de Abril 2020, presentación en la clase online (https://meet.google.com/uqq-omya-yow
++1 209-732-4659 PIN: 530397769#)
 
 ### Fechas importantes (2020)
 <!--* Parcial: Miercoles 31-Oct - 18 hs
 * Recuperatorio: Martes 20-Nov - 18 hs
 * Prefinal: Junto a Final - 18 hs-->
-* LTs: TBD
+* LTs: Miercoles 29 de Abril 2020 (Clase Virtual)
 
 ## Horarios
 * Miércoles 18:15 a 19:15 hs (virtual)

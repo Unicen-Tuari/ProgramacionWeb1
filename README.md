@@ -7,10 +7,10 @@ En este repositorio vas a encontrar toda la información de la cátedra de Progr
 * Miercoles 29 de Abril 2020, presentación en la [clase online](https://meet.google.com/uqq-omya-yow)
 
 ### Fechas importantes (2020)
-<!--* Parcial: Miercoles 31-Oct - 18 hs
-* Recuperatorio: Martes 20-Nov - 18 hs
-* Prefinal: Junto a Final - 18 hs-->
 * LTs: Miercoles 29 de Abril 2020 (Clase Virtual)
+* Parcial: Miercoles 24-Jun - A Partir de 18Hs. Turnos a convenir Examen Oral Online.
+* Recuperatorio: Miercoles 1-Jul - A Partir de 18Hs. Turnos a convenir Examen Oral Online.
+* Prefinal: Junto a Final
 
 ## Horarios
 * Miércoles 18:15 a 19:15 hs (virtual)

@@ -14,7 +14,7 @@ En este repositorio vas a encontrar toda la información de la cátedra de Progr
 ## Docentes
 * Ignacio Jonas (ijonas@exa.unicen.edu.ar)
 <!--* Javier Romero (romeroluisjavier@gmail.com)-->
-Alejandro Perez (perezalejandrojulian@gmail.com)
+* Alejandro Perez (perezalejandrojulian@gmail.com)
 <!--* * Javier Dottori (jdottori@exa.unicen.edu.ar)-->
 
 ## Aprobación de la materia

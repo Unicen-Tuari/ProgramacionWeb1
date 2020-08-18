@@ -3,22 +3,18 @@ En este repositorio vas a encontrar toda la información de la cátedra de Progr
 
 ## Anuncios
 <!-- Este Miercoles 29/05 hay clases de 18 a 21hs. -->
-* Miercoles 22 de Abril 2020, entrega de Slides LTs en [esta carpeta](https://drive.google.com/drive/folders/1SZuOP49q3sTv8OLvL11Pnev85XtpJSYX?usp=sharing)
-* Miercoles 29 de Abril 2020, presentación en la [clase online](https://meet.google.com/uqq-omya-yow)
+* Miercoles 19 de Agosto 2020, [clase online](#)
 
 ### Fechas importantes (2020)
-* LTs: Miercoles 29 de Abril 2020 (Clase Virtual)
-* Parcial: Miercoles 24-Jun - A Partir de 18Hs. Turnos a convenir Examen Oral Online.
-* Recuperatorio: Miercoles 1-Jul - A Partir de 18Hs. Turnos a convenir Examen Oral Online.
-* Prefinal: Junto a Final
+
 
 ## Horarios
 * Miércoles 18:15 a 19:15 hs (virtual)
 
 ## Docentes
 * Ignacio Jonas (ijonas@exa.unicen.edu.ar)
-* Javier Romero (romeroluisjavier@gmail.com)
-<!--* Alejandro Perez (perezalejandrojulian@gmail.com)-->
+<!--* Javier Romero (romeroluisjavier@gmail.com)-->
+Alejandro Perez (perezalejandrojulian@gmail.com)
 <!--* * Javier Dottori (jdottori@exa.unicen.edu.ar)-->
 
 ## Aprobación de la materia

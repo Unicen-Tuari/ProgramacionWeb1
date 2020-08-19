@@ -29,11 +29,19 @@ La materia cuenta con 3 instancias de evaluación obligatorias:
 * Presentación de LT en tiempo y forma
 
 ### Cronograma
-* [Cronograma 2020 (Primer cuatrimestre)](https://docs.google.com/spreadsheets/d/1T9D_mcSLY5vTlKSHoTyYkRkZPFVvqHTO3mqCAFWmyqo/edit?usp=sharing)
+* [Cronograma 2020 (Segundo cuatrimestre)](https://docs.google.com/spreadsheets/d/1hQnTUqTwPBABByWkq2qIHxHNecbbe-pW70WOfjESw_M/edit?usp=sharing)
 
 ### Youtube
 Videos de las clases virtuales [aqui](https://www.youtube.com/channel/UCA7J-66j1nE7n0m6JXadN2A?view_as=subscriber)
 
+## Slides Programación Web II 2020
+* [Presentación de la Materia](https://docs.google.com/presentation/d/12jOE9RNH-Tgo14YOZc2D0tLAWR8RyDkA2FW6kkSYEDY/edit?usp=sharing)
+
+#### Laravel
+* [01 - Intro Laravel](https://docs.google.com/presentation/d/1QosS8zS0HdRmurPhXbe98FYiyvqRE-UwdPiGtIgFcGw/edit?usp=sharing)
+
+#### DEV OPS
+*
 
 ## Slides Programación Web I 2020
 * [Presentación de la Materia](https://docs.google.com/presentation/d/1-_W6OyyXmzfOJuNVNeMPYK7--52ikIa0vq8gSq8lLHY/edit)

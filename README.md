@@ -41,7 +41,9 @@ Videos de las clases virtuales [aqui](https://www.youtube.com/channel/UCA7J-66j1
 * [01 - Intro Laravel](https://docs.google.com/presentation/d/1QosS8zS0HdRmurPhXbe98FYiyvqRE-UwdPiGtIgFcGw/edit?usp=sharing)
 
 #### DEV OPS
-*
+* [01 - Intro a DevOps](https://docs.google.com/presentation/d/17q_4TaWb8Gx7_ipPrkN3NnKgTxei29HVeX8D48rezRI/edit?usp=sharing)
+* [01 - Intro a DevOps (Mejoradas)](https://docs.google.com/presentation/d/16GIcK3GFygkKvA_pUXCQyd_r5_O-2yzA8ka00gOk8xk/edit?usp=sharing)
+
 
 ## Slides Programación Web I 2020
 * [Presentación de la Materia](https://docs.google.com/presentation/d/1-_W6OyyXmzfOJuNVNeMPYK7--52ikIa0vq8gSq8lLHY/edit)

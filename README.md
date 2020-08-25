@@ -39,6 +39,7 @@ Videos de las clases virtuales [aqui](https://www.youtube.com/channel/UCA7J-66j1
 
 #### Laravel
 * [01 - Intro Laravel](https://docs.google.com/presentation/d/1QosS8zS0HdRmurPhXbe98FYiyvqRE-UwdPiGtIgFcGw/edit?usp=sharing)
+* [02 - Manejo de Dependencias](https://docs.google.com/presentation/d/1cGyJwyOadPpsSeAMz_kAR8PYjnAdemPVyGQ2mYU4WaQ/edit?usp=sharing)
 
 #### DEV OPS
 * [01 - Intro a DevOps](https://docs.google.com/presentation/d/17q_4TaWb8Gx7_ipPrkN3NnKgTxei29HVeX8D48rezRI/edit?usp=sharing)

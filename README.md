@@ -36,6 +36,7 @@ Videos de las clases virtuales [aqui](https://www.youtube.com/channel/UCA7J-66j1
 
 ## Slides Programación Web II 2020
 * [Presentación de la Materia](https://docs.google.com/presentation/d/12jOE9RNH-Tgo14YOZc2D0tLAWR8RyDkA2FW6kkSYEDY/edit?usp=sharing)
+* [Proyecto](https://docs.google.com/presentation/d/11pDR_EcZ5W27hA9IVjRBM2mJ6KQultZiAMkmuzqLn-w/edit#slide=id.g912c8be2ad_2_1)
 
 #### Laravel
 * [01 - Intro Laravel](https://docs.google.com/presentation/d/1QosS8zS0HdRmurPhXbe98FYiyvqRE-UwdPiGtIgFcGw/edit?usp=sharing)

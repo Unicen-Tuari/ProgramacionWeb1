@@ -21,7 +21,7 @@ En este repositorio vas a encontrar toda la información de la cátedra de Progr
 La materia cuenta con 3 instancias de evaluación obligatorias:
 <!--* Trabajo teorico a exponerse en la clases-->
 * Presentación de LT 
-* Trabajo practico especial
+* [Trabajo practico especial](https://docs.google.com/presentation/d/11pDR_EcZ5W27hA9IVjRBM2mJ6KQultZiAMkmuzqLn-w/edit?usp=sharing)
 * Parcial
 
 ### Promoción
@@ -41,10 +41,14 @@ Videos de las clases virtuales [aqui](https://www.youtube.com/channel/UCA7J-66j1
 #### Laravel
 * [01 - Intro Laravel](https://docs.google.com/presentation/d/1QosS8zS0HdRmurPhXbe98FYiyvqRE-UwdPiGtIgFcGw/edit?usp=sharing)
 * [02 - Manejo de Dependencias](https://docs.google.com/presentation/d/1cGyJwyOadPpsSeAMz_kAR8PYjnAdemPVyGQ2mYU4WaQ/edit?usp=sharing)
+* [03 - Test Automation](https://www.youtube.com/watch?v=PbmMSOTvxDk)
 
 #### DEV OPS
 * [01 - Intro a DevOps](https://docs.google.com/presentation/d/17q_4TaWb8Gx7_ipPrkN3NnKgTxei29HVeX8D48rezRI/edit?usp=sharing)
 * [01 - Intro a DevOps (Mejoradas)](https://docs.google.com/presentation/d/16GIcK3GFygkKvA_pUXCQyd_r5_O-2yzA8ka00gOk8xk/edit?usp=sharing)
+* [02 - Docker [Parte 1]](https://www.youtube.com/watch?v=-iZcAeuCMX4)
+* [02 - Docker [Parte 2]](https://www.youtube.com/watch?v=Oi13cePPSyM&t=3s)
+* [03- Git Avanzado](https://www.youtube.com/watch?v=U8Yk7Mig1dc)
 
 
 ## Slides Programación Web I 2020

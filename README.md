@@ -39,16 +39,23 @@ Videos de las clases virtuales [aqui](https://www.youtube.com/channel/UCA7J-66j1
 * [Proyecto](https://docs.google.com/presentation/d/11pDR_EcZ5W27hA9IVjRBM2mJ6KQultZiAMkmuzqLn-w/edit#slide=id.g912c8be2ad_2_1)
 
 #### Laravel
-* [01 - Intro Laravel](https://docs.google.com/presentation/d/1QosS8zS0HdRmurPhXbe98FYiyvqRE-UwdPiGtIgFcGw/edit?usp=sharing)
-* [02 - Manejo de Dependencias](https://docs.google.com/presentation/d/1cGyJwyOadPpsSeAMz_kAR8PYjnAdemPVyGQ2mYU4WaQ/edit?usp=sharing)
-* [03 - Test Automation](https://www.youtube.com/watch?v=PbmMSOTvxDk)
+* [01 - Intro Laravel](https://youtu.be/6loCikLW7Lk)
+* [02 - Manejo de Dependencias](https://youtu.be/-sVuO4JX18s)
+* [03 - Test Automation](https://youtu.be/PbmMSOTvxDk)
+* [03.2 Test Automation Parte 2](https://youtu.be/CBCkgaSlvec)
+* [04 - ORM Eloquent](https://youtu.be/QMWSWxt8A74)
+* [05 - Autenticación y Autorización](https://youtu.be/pfVwYDOXI6o)
+* [05 - Autenticación y Autorización](https://youtu.be/pfVwYDOXI6o)
 
 #### DEV OPS
-* [01 - Intro a DevOps](https://docs.google.com/presentation/d/17q_4TaWb8Gx7_ipPrkN3NnKgTxei29HVeX8D48rezRI/edit?usp=sharing)
-* [01 - Intro a DevOps (Mejoradas)](https://docs.google.com/presentation/d/16GIcK3GFygkKvA_pUXCQyd_r5_O-2yzA8ka00gOk8xk/edit?usp=sharing)
+* [01 - Intro a DevOps](https://youtu.be/lL8omykmcW4)
+* [01 - Intro a DevOps (Slides Mejoradas)](https://docs.google.com/presentation/d/16GIcK3GFygkKvA_pUXCQyd_r5_O-2yzA8ka00gOk8xk/edit?usp=sharing)
 * [02 - Docker [Parte 1]](https://www.youtube.com/watch?v=-iZcAeuCMX4)
 * [02 - Docker [Parte 2]](https://www.youtube.com/watch?v=Oi13cePPSyM&t=3s)
-* [03- Git Avanzado](https://www.youtube.com/watch?v=U8Yk7Mig1dc)
+* [03 - Git Avanzado](https://www.youtube.com/watch?v=U8Yk7Mig1dc)
+* [04 - Tests + Continuous Integration](https://youtu.be/90m3dhsMiLY)
+* [05 - Code Quality](https://youtu.be/-s0i9LGMG1I)
+* [06 - Continuous Deployment Github Actions](https://youtu.be/yTSiIXEyN6A)
 
 
 ## Slides Programación Web I 2020

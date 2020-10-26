@@ -6,7 +6,9 @@ En este repositorio vas a encontrar toda la información de la cátedra de Progr
 * Miercoles 19 de Agosto 2020, [clase online](#)
 
 ### Fechas importantes (2020)
-
+* Parcial: Miercoles 28 Octubre 18 a 21Hs
+* Recuperatorio: Miercoles 11 de Noviembre 18 a 21Hs
+* Entrega Final TP: 18 de Noviembre 18 a 21Hs
 
 ## Horarios
 * Miércoles 18:15 a 19:15 hs (virtual)

@@ -47,6 +47,7 @@ Videos de las clases virtuales [aqui](https://www.youtube.com/channel/UCA7J-66j1
 * [03.2 Test Automation Parte 2](https://youtu.be/CBCkgaSlvec)
 * [04 - ORM Eloquent](https://youtu.be/QMWSWxt8A74)
 * [05 - Autenticación y Autorización](https://youtu.be/pfVwYDOXI6o)
+* [06 - Web Services y APIs REST en Laravel](https://www.youtube.com/watch?v=J72LWD4Yvpg)
 
 #### DEV OPS
 * [01 - Intro a DevOps](https://youtu.be/lL8omykmcW4)
